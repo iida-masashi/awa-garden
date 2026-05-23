@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"node1","type":"file","file":"阿波説ポータル.md","x":0,"y":0,"width":400,"height":600},
+		{"id":"node2","type":"file","file":"剣山伝承詳細集.md","x":500,"y":-300,"width":300,"height":400},
+		{"id":"node3","type":"file","file":"式内社/阿波国/名方郡/天石門別八倉比売神社.md","x":500,"y":100,"width":300,"height":400},
+		{"id":"node4","type":"file","file":"式内社/阿波国/名方郡/上一宮大粟神社.md","x":500,"y":500,"width":300,"height":400},
+		{"id":"node5","type":"file","file":"式内社/阿波忌部氏伝承詳細.md","x":900,"y":100,"width":300,"height":400}
+	],
+	"edges":[
+		{"id":"edge1","fromNode":"node1","fromSide":"right","toNode":"node2","toSide":"left","label":"聖地"},
+		{"id":"edge2","fromNode":"node1","fromSide":"right","toNode":"node3","toSide":"left","label":"天照大神"},
+		{"id":"edge3","fromNode":"node1","fromSide":"right","toNode":"node4","toSide":"left","label":"国魂神"},
+		{"id":"edge4","fromNode":"node4","fromSide":"right","toNode":"node5","toSide":"left","label":"祭祀"}
+	]
+}

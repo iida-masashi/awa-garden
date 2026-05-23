@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"node-1","type":"file","file":"理論・研究/01_理論基盤・総論/阿波説の根幹.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"node-2","type":"text","text":"# 「イの国」移動の足跡\n阿波（徳島）から全国へ広がる「イ（飯・伊・猪）」地名のネットワーク","x":450,"y":-200,"width":600,"height":150},
+		{"id":"node-3","type":"file","file":"式内社/01_阿波国/01_郡別調査/名方郡/上一宮大粟神社.md","x":500,"y":100,"width":300,"height":300},
+		{"id":"node-4","type":"file","file":"式内社/02_安房・上総・下総（千葉）/安房国/安房神社.md","x":1000,"y":100,"width":300,"height":300},
+		{"id":"node-5","type":"file","file":"式内社/04_駿河・遠江（静岡）/遠江国/阿波々神社.md","x":1000,"y":500,"width":300,"height":300},
+		{"id":"node-6","type":"file","file":"式内社/05_淡路国/淡路国/伊弉諾神宮.md","x":500,"y":500,"width":300,"height":300}
+	],
+	"edges":[
+		{"id":"edge-1","fromNode":"node-3","fromSide":"right","toNode":"node-4","toSide":"left","label":"阿波忌部の東遷"},
+		{"id":"edge-2","fromNode":"node-3","fromSide":"bottom","toNode":"node-6","toSide":"top","label":"阿淡二州の祭祀圏"},
+		{"id":"edge-3","fromNode":"node-4","fromSide":"bottom","toNode":"node-5","toSide":"top","label":"東海道沿いの阿波勢力"}
+	]
+}

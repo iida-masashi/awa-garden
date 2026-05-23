@@ -1,0 +1,37 @@
+filters:
+  or:
+    - file.hasTag("出土品")
+    - file.hasTag("銅鏡")
+    - file.hasTag("銅鐸")
+    - file.hasTag("土器")
+    - file.hasTag("辰砂")
+    - file.hasTag("埴輪")
+
+formulas:
+  artifact_type: 'if(file.hasTag("銅鏡"), "🪞 銅鏡", if(file.hasTag("銅鐸"), "🔔 銅鐸", if(file.hasTag("土器") || file.hasTag("埴輪"), "🏺 土器・埴輪", if(file.hasTag("辰砂"), "🩸 辰砂・朱", "🏛️ 遺跡・古墳"))))'
+
+properties:
+  formula.artifact_type:
+    displayName: "カテゴリ"
+  file.name:
+    displayName: "名称"
+
+views:
+  - type: table
+    name: "出土品・遺跡一覧"
+    order:
+      - file.name
+      - formula.artifact_type
+    groupBy:
+      property: formula.artifact_type
+      direction: ASC
+  - type: cards
+    name: "カテゴリ別ギャラリー"
+    order:
+      - file.name
+      - formula.artifact_type
+    groupBy:
+      property: formula.artifact_type
+      direction: ASC
+  - type: map
+    name: "出土地分布マップ"

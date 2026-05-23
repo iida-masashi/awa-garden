@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"inbe","type":"text","text":"# 阿波忌部氏\n(天日鷲命・天太玉命)\n- 祭祀・麻・穀の独占\n- 大嘗祭「麁服」調進\n- 安房（千葉）へ東遷","x":0,"y":0,"width":250,"height":150,"color":"3"},
+		{"id":"ama","type":"text","text":"# 海人族\n(豊玉比売・宇豆毘古)\n- 海洋航海術・水軍\n- 神武東征の水先案内\n- 畿内・東国へのルート開拓","x":-350,"y":200,"width":250,"height":150,"color":"4"},
+		{"id":"mononobe","type":"text","text":"# 阿波物部氏\n(天村雲命・饒速日命)\n- 武力・製鉄・植林\n- 忌部氏との協調関係\n- 初期ヤマト王権の軍事中枢","x":350,"y":200,"width":250,"height":150,"color":"1"},
+		{"id":"hata","type":"text","text":"# 渡来人・秦氏\n(徐福伝説)\n- 絹（養蚕）・土木・金属精錬\n- 忌部氏の技術的バックボーン\n- ユダヤ渡来伝説の土壌","x":0,"y":350,"width":250,"height":150,"color":"5"},
+		{"id":"soga","type":"text","text":"# 阿波蘇我氏\n(蘇我氏神社・童学寺)\n- 仏教導入・王権の実権\n- 大和進出前の本貫地","x":350,"y":-150,"width":250,"height":150,"color":"2"},
+		{"id":"yamato","type":"text","text":"# 初期ヤマト王権\n(纒向遺跡・大和)","x":0,"y":-250,"width":250,"height":80,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"hata","fromSide":"top","toNode":"inbe","toSide":"bottom","label":"技術提供 (織物・土木)"},
+		{"id":"e2","fromNode":"ama","fromSide":"top","toNode":"inbe","toSide":"left","label":"航海ルート提供"},
+		{"id":"e3","fromNode":"mononobe","fromSide":"top","toNode":"inbe","toSide":"right","label":"軍事・祭祀の補完"},
+		{"id":"e4","fromNode":"inbe","fromSide":"top","toNode":"yamato","toSide":"bottom","label":"東遷・王権システムの移植"},
+		{"id":"e5","fromNode":"soga","fromSide":"left","toNode":"yamato","toSide":"right","label":"中央政権での覇権"}
+	]
+}

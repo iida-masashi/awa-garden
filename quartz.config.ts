@@ -8,16 +8,27 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "阿波説デジタルガーデン",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    analytics: null,
+    locale: "ja-JP",
+    baseUrl: "iida-masashi.github.io/awa-garden",
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "_work",
+      "**/*.bak",
+      "Web_Archives",
+      "01_ブログアーカイブ",
+      "02_連載・研究論考/note_posts",
+      "Clippings",
+      "gemini-scribe",
+      "**/NAJ_*_raw.md",
+      "**/NAJ_*_raw_transformed.md",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -88,8 +99,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Disabled: emoji codepoint issues + slow build
+      // Plugin.CustomOgImages(),
     ],
   },
 }
