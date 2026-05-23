@@ -4,8 +4,8 @@ tags: [氏族/阿波忌部, 史料/古事記, 物証/古墳, 神/大国主]
 分類: 考古学・物証
 location: []
 epoch: ""
-deities: ["[[大国主]]"]
-clans: ["[[阿波忌部]]"]
+deities: ["大国主"]
+clans: ["阿波忌部"]
 evidence_type: "archaeological_evidence"
 confidence: 5
 ---
