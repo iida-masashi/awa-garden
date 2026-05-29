@@ -14,4 +14,4 @@ tags:
 
 **丹波国造一族の系図部分**  
   
-　![](images/taba-sinbetsu.jpg)
+　
