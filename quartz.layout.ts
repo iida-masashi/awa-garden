@@ -7,19 +7,11 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.ConditionalRender({
-      component: Component.Comments({
-        provider: "giscus",
-        options: {
-          repo: "iida-masashi/awa-garden",
-          repoId: "R_kgDOSldPjA",
-          category: "Announcements",
-          categoryId: "DIC_kwDOSldPjM4C-Zhz",
-          mapping: "title",
-          strict: false,
-          reactionsEnabled: true,
-          inputPosition: "bottom",
-          lang: "ja",
-        },
+      // ログイン不要のコメント機能（Cusdis）
+      component: Component.CusdisComments({
+        appId: "96449c4e-4680-4d58-8195-b6f795ecdfac",
+        host: "https://cusdis.com",
+        lang: "ja",
       }),
       // トップページ（index）にはコメント欄を表示しない
       condition: (page) => page.fileData.slug !== "index",

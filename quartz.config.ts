@@ -12,7 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "google",
+      tagId: "G-KM0FFVL99X",
+    },
     locale: "ja-JP",
     baseUrl: "iida-masashi.github.io/awa-garden",
     ignorePatterns: [
@@ -99,7 +102,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Disabled: emoji codepoint issues + slow build
+      // Disabled: emoji codepoint issues (codepoint 2049-fe0e not found) + slow build
+      // 再有効化には絵文字除去のカスタム imageStructure が必要（2026-06-03 再検証で同問題を確認）
       // Plugin.CustomOgImages(),
     ],
   },
