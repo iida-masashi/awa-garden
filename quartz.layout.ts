@@ -5,7 +5,26 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.Comments({
+        provider: "giscus",
+        options: {
+          repo: "iida-masashi/awa-garden",
+          repoId: "R_kgDOSldPjA",
+          category: "Announcements",
+          categoryId: "DIC_kwDOSldPjM4C-Zhz",
+          mapping: "title",
+          strict: false,
+          reactionsEnabled: true,
+          inputPosition: "bottom",
+          lang: "ja",
+        },
+      }),
+      // トップページ（index）にはコメント欄を表示しない
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
