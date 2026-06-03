@@ -6,12 +6,8 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.ConditionalRender({
-      // SNSシェアボタン（X / Facebook / LINE / URLコピー）
-      component: Component.ShareButtons(),
-      // トップページ（index）には表示しない
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    // SNSシェアボタン（X / Facebook / LINE / URLコピー）。トップページにも表示
+    Component.ShareButtons(),
     Component.ConditionalRender({
       // ログイン不要のコメント機能（Cusdis）
       component: Component.CusdisComments({
@@ -41,11 +37,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.ConditionalRender({
-      // 記事タイトル直下のSNSシェアボタン（トップページは除外）
-      component: Component.ShareButtons(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    // 記事タイトル直下のSNSシェアボタン。トップページにも表示
+    Component.ShareButtons(),
   ],
   left: [
     Component.PageTitle(),
