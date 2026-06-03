@@ -7,6 +7,12 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.ConditionalRender({
+      // SNSシェアボタン（X / Facebook / LINE / URLコピー）
+      component: Component.ShareButtons(),
+      // トップページ（index）には表示しない
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
       // ログイン不要のコメント機能（Cusdis）
       component: Component.CusdisComments({
         appId: "96449c4e-4680-4d58-8195-b6f795ecdfac",
