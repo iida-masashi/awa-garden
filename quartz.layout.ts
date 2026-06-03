@@ -41,6 +41,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.ConditionalRender({
+      // 記事タイトル直下のSNSシェアボタン（トップページは除外）
+      component: Component.ShareButtons(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
