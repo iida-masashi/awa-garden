@@ -1,6 +1,6 @@
 ---
 title: "001555749.pdf"
-source: "C:\\Users\\iidam\\AppData\\Local\\Temp\\tmpz389dkbl\\001555749.pdf"
+source: "001555749.pdf"
 created_at: "2026-05-24T16:07:11Z"
 tags:
   - "local_file"

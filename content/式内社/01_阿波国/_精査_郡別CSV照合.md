@@ -5,8 +5,8 @@ tags: [精査, 式内社, 阿波国]
 ---
 # _精査_郡別CSV照合
 
-**権威データ**：`C:\Users\iidam\gemini\jinja\Shiki_Data_ShikinaisyaAll.csv`（全国式内社データ・3,438件）
-本ノートは延喜式神名帳の正規座を CSV から抽出し、Vault実在ノートと照合した結果である。
+**権威データ**：式内社データベース（[shikinaisya.net](https://shikinaisya.net/?p=213)、全国式内社データ・約3,400件）
+本ノートは延喜式神名帳の正規座を同データベースから抽出し、Vault実在ノートと照合した結果である。
 
 ## 🎯 「座」のカウント原則
 
@@ -190,5 +190,5 @@ Vault側 `上一宮大粟神社.md` は CSV「天石門別八倉比売神社」�
 - [[阿波国式内社・祭神一覧]]
 
 **参考データ**：
-- `Shiki_Data_ShikinaisyaAll.csv`（権威データ・延喜式神名帳全国式内社）
+- 式内社データベース（[shikinaisya.net](https://shikinaisya.net/?p=213)・延喜式神名帳全国式内社）
 - `genbu_mapping.csv`（玄武神社サイト・外部URL紐付け、二次資料）
