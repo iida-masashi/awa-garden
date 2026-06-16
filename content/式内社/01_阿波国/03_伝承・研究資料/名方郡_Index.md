@@ -8,11 +8,7 @@ confidence: 4
 ---
 # 名方郡 神社一覧
 
-```dataview
-LIST
-FROM "式内社/阿波国/名方郡"
-SORT file.name ASC
-```
+> ℹ️ この一覧は Obsidian 上で動的に表示されます（公開サイトでは省略）。
 
 ---
 ← ポータルへ戻る

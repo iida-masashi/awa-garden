@@ -345,21 +345,11 @@ tags: [MOC, 元宮, 阿波説, 全国展開, 遷座]
 
 ## 🏺 関連する考古学・物証
 
-```dataview
-LIST
-FROM "理論・研究/02_考古学・物証" OR "資料/Web_Archives/kohun-jinjya_blog/古墳"
-WHERE contains(file.name, "古墳") OR contains(file.name, "遺跡") OR contains(file.name, "元宮")
-LIMIT 15
-```
+> ℹ️ この一覧は Obsidian 上で動的に表示されます（公開サイトでは省略）。
 
 ## 🔁 動的 dataview：元宮言及ノート
 
-```dataview
-LIST file.path
-FROM "理論・研究" OR "式内社" OR "資料/Web_Archives"
-WHERE contains(file.name, "元宮") OR contains(file.name, "元諏訪") OR contains(file.name, "元伊勢")
-SORT file.name ASC
-```
+> ℹ️ この一覧は Obsidian 上で動的に表示されます（公開サイトでは省略）。
 
 ---
 

@@ -69,12 +69,7 @@ tags: [MOC, 氏族, 祭祀, 地理, 阿波説]
 
 ### dataview: 阿波忌部関連の式内社
 
-```dataview
-TABLE 旧国, 旧郡, deities AS 主祭神
-FROM "式内社"
-WHERE contains(string(clans), "忌部") OR contains(string(deities), "天日鷲") OR contains(string(deities), "天太玉")
-SORT 旧国, 旧郡
-```
+> ℹ️ この一覧は Obsidian 上で動的に表示されます（公開サイトでは省略）。
 
 ---
 
@@ -97,12 +92,7 @@ SORT 旧国, 旧郡
 
 ### dataview: 大宜都比売／粟氏関連社
 
-```dataview
-TABLE 旧郡, deities AS 主祭神
-FROM "式内社/01_阿波国"
-WHERE contains(string(deities), "大宜都比売") OR contains(string(deities), "オオゲツヒメ") OR contains(string(clans), "粟")
-SORT 旧郡
-```
+> ℹ️ この一覧は Obsidian 上で動的に表示されます（公開サイトでは省略）。
 
 ---
 
@@ -329,21 +319,11 @@ SORT 旧郡
 
 ## 📊 dataview: 全氏族 × 式内社 マトリックス
 
-```dataview
-TABLE clans AS 氏族, deities AS 主祭神, 旧郡
-FROM "式内社/01_阿波国"
-WHERE clans
-SORT 旧郡 ASC
-```
+> ℹ️ この一覧は Obsidian 上で動的に表示されます（公開サイトでは省略）。
 
 ## 📊 dataview: 東国式内社の阿波関連
 
-```dataview
-TABLE 旧国, 旧郡, deities
-FROM "式内社/02_安房・上総・下総（千葉）" OR "式内社/04_駿河・遠江（静岡）"
-WHERE contains(string(deities), "天日鷲") OR contains(string(deities), "天太玉") OR contains(string(deities), "玉依") OR contains(string(deities), "豊玉")
-SORT 旧国
-```
+> ℹ️ この一覧は Obsidian 上で動的に表示されます（公開サイトでは省略）。
 
 ---
 

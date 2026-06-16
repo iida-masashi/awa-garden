@@ -137,13 +137,7 @@ created: 2026-06-03
 
 ## 🏺 動的 dataview：辰砂・水銀朱・丹生 言及ノート
 
-```dataview
-LIST
-FROM "理論・研究" OR "式内社" OR "学術基盤" OR "資料/Web_Archives"
-WHERE contains(file.name, "辰砂") OR contains(file.name, "若杉") OR contains(file.name, "水銀") OR contains(file.name, "丹生")
-SORT file.name ASC
-LIMIT 30
-```
+> ℹ️ この一覧は Obsidian 上で動的に表示されます（公開サイトでは省略）。
 
 ---
 
