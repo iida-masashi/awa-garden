@@ -11,3 +11,5 @@ replit.nix
 _*.html
 content/**/*.bak
 content/**/NAJ_*_raw*.md
+content/**/*.PLACEHOLDER
+content/**/*.TMPCHECK
