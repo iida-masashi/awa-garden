@@ -31,6 +31,7 @@ const config: QuartzConfig = {
       "gemini-scribe",
       "**/NAJ_*_raw.md",
       "**/NAJ_*_raw_transformed.md",
+      "**/BACKLOG_*.md",
     ],
     defaultDateType: "modified",
     theme: {
