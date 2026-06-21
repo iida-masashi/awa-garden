@@ -108,10 +108,10 @@ created: 2026-06-03
 - [空海と秦氏NO３ 高野山は丹生（水銀）鉱床の上に作られている 瀬戸の島から](https://tono202.livedoor.blog/archives/9712153.html) — 高野山と丹生（水銀）鉱床。
 - [大仏造営と秦氏NO３ 大仏鍍金に必要な水銀は伊予や土佐でも採掘されていた 瀬戸の島から](https://tono202.livedoor.blog/archives/11623512.html) — 大仏鍍金の水銀と伊予・土佐採掘。
 - [空海と秦氏NO2 伊予の秦氏は鉱山開発集団だった 瀬戸の島から](https://tono202.livedoor.blog/archives/9712145.html) — 伊予秦氏＝鉱山開発集団論。
-- 2026-01-02-水源地と辰砂（朱）の関係（丹生都比売神社と東大寺）から日本刀へ（note_kofunjidaishi）— 辰砂・丹生・東大寺の連環。
-- 2025-09-04-地球化学図で見る水銀（Hg）と古代史（note_kofunjidaishi）— 地球化学図から見る水銀分布。
-- 2025-09-04-桜井茶臼山古墳の石室の水銀朱（note_kofunjidaishi）— 畿内古墳の朱使用の対照例。
-- 2023-12-31-日本という国の始まり　その６（卑弥呼の朱）（note_rakujin）— 「卑弥呼の朱」論。
+- [2026-01-02-水源地と辰砂（朱）の関係（丹生都比売神社と東大寺）から日本刀へ](https://note.com/kofunjidaishi/n/n5a19a5641fe3)（note_kofunjidaishi）— 辰砂・丹生・東大寺の連環。
+- [2025-09-04-地球化学図で見る水銀（Hg）と古代史](https://note.com/kofunjidaishi/n/n23b8c1e732c0)（note_kofunjidaishi）— 地球化学図から見る水銀分布。
+- [2025-09-04-桜井茶臼山古墳の石室の水銀朱](https://note.com/kofunjidaishi/n/n8eb240dbc864)（note_kofunjidaishi）— 畿内古墳の朱使用の対照例。
+- [2023-12-31-日本という国の始まり　その６（卑弥呼の朱）](https://note.com/rakujin_01/n/nb6b3e086ae83)（note_rakujin）— 「卑弥呼の朱」論。
 - 2025-08-14-「朱」の起源-１：丹生神社（伊勢国）（note_posts）— 伊勢国丹生神社からの朱起源論。
 
 ---
