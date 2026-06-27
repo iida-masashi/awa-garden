@@ -396,7 +396,6 @@ tags: [MOC, 元宮, 阿波説, 全国展開, 遷座]
 
 ```mermaid
 graph LR
-    %% 阿波の起点群（中央構造線上）
     Awa[阿波・中央構造線<br/>34.06N 134.4E]
     Wakasugi[若杉山辰砂<br/>33.85N 134.55E]
     Oawa[上一宮大粟神社<br/>名方郡神山町<br/>33.97N 134.36E]
@@ -417,7 +416,6 @@ graph LR
     Awa --- Yozo
     Awa --- Mine
 
-    %% 遷座先（全国）
     Takemina --> Suwa[諏訪大社<br/>信濃国<br/>36.0N 138.1E]
     Yahoko --> Izumo[出雲大社<br/>出雲国<br/>35.4N 132.7E]
     Oawa --> Yasaka[事代主神社→三嶋大社<br/>伊豆国<br/>35.1N 138.9E]
