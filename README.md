@@ -27,7 +27,7 @@ Obsidian Vault (D:/Vault/)              ← Source of truth (private)
 
 ## コンテンツ概要
 
-公開ノート **約 1,176 件**。以下の領域を網羅する。
+公開ノート **約 1,341 件**。以下の領域を網羅する。
 
 | 領域 | 内容 |
 |---|---|
@@ -118,6 +118,13 @@ cd /c/Users/iidam/quartz && git add -A && git commit -m "sync" && git push
 - `baseUrl`: iida-masashi.github.io/awa-garden
 - `ignorePatterns`: Web_Archives、01_ブログアーカイブ、note_posts、Clippings、gemini-scribe、NAJ_*_raw、*.bak ほか
 - `CustomOgImages`: 無効化(絵文字 codepoint 未対応で build エラー)
+
+### 依存関係更新の注意
+
+Dependabot の一括更新 PR はメジャーバージョンアップを含むことがあり、`npm run check`(型チェック)通過後も実ビルド(`npx quartz build`)が壊れる場合がある。マージ前に必ず実ビルドまで確認すること。
+
+- 例: `typescript` 5→6 で `tsconfig.json` の `moduleResolution: "node"` がエラー化(TS5107)
+- 例: `js-yaml` 4→5 で default export の提供方法が変わり `SyntaxError` でビルドがクラッシュ
 
 ---
 
