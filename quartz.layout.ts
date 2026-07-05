@@ -18,6 +18,8 @@ export const sharedPageComponents: SharedLayout = {
       // トップページ（index）にはコメント欄を表示しない
       condition: (page) => page.fileData.slug !== "index",
     }),
+    // コンテンツの著作権表示（トップページ以外の全ページ末尾）
+    Component.ContentLicense(),
   ],
   footer: Component.Footer({
     links: {

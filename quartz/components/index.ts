@@ -25,6 +25,7 @@ import CusdisComments from "./CusdisComments"
 import ShareButtons from "./ShareButtons"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import ContentLicense from "./ContentLicense"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ShareButtons,
   Flex,
   ConditionalRender,
+  ContentLicense,
 }
