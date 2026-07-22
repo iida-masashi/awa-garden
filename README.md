@@ -13,7 +13,7 @@
 このリポジトリは **Obsidian Vault** をソースとし、**[Quartz v4](https://quartz.jzhao.xyz/)** を介して静的サイトを生成、**GitHub Pages** で配信する。
 
 ```
-Obsidian Vault (D:/Vault/)              ← Source of truth (private)
+Obsidian Vault (private, gitignored)    ← Source of truth
        │
        ▼  sync (Vault → quartz/content/)
  _sync_to_quartz.py
@@ -60,14 +60,14 @@ Obsidian Vault (D:/Vault/)              ← Source of truth (private)
 # Vault 編集 (Obsidian で通常作業)
 
 # 同期 + frontmatter fix + dewikify
-cd D:/Vault/_work && uv run python _sync_to_quartz.py
+cd <vault>/_work && uv run python _sync_to_quartz.py
 
 # (任意) ローカルプレビュー
-cd /c/Users/iidam/quartz && npx quartz build --serve
+cd <this-repo> && npx quartz build --serve
 # → http://localhost:8080
 
 # 公開
-cd /c/Users/iidam/quartz && git add -A && git commit -m "sync" && git push
+cd <this-repo> && git add -A && git commit -m "sync" && git push
 ```
 
 `git push` で **GitHub Actions が自動 build + deploy**(約 1〜2 分)。
@@ -95,7 +95,7 @@ cd /c/Users/iidam/quartz && git add -A && git commit -m "sync" && git push
 | `_dewikify_broken.py` | 解決できない wikilink を外部リンクまたはプレーンテキスト化 |
 | `_audit_links3.py` | broken link の実態調査(任意・デバッグ用) |
 
-(スクリプトは `D:/Vault/_work/` に配置、Vault と同じ private 領域で管理)
+(スクリプトは `<vault>/_work/` に配置、Vault と同じ private 領域で管理)
 
 ### 公開対象の選別
 
@@ -105,7 +105,7 @@ cd /c/Users/iidam/quartz && git add -A && git commit -m "sync" && git push
 
 **意図的に除外**: `Web_Archives/`(他人ブログコピー)、`01_ブログアーカイブ/`、`02_連載・研究論考/note_posts/`、`kojiki_md/`、`Evernote/`、`Clippings/`、`gemini-scribe/`、`_work/`、`NAJ_*_raw*.md`、`*.bak`
 
-詳細は `D:/Vault/_work/QUARTZ_SYNC_README.md` を参照。
+詳細は `<vault>/_work/QUARTZ_SYNC_README.md` を参照。
 
 ---
 
