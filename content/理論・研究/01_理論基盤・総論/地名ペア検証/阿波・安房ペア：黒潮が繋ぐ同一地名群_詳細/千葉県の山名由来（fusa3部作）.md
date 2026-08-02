@@ -26,9 +26,9 @@ confidence: 2
 
 ## 2. fusa資料：千葉県山名3部作
 
-- [📍 千葉県の山名由来 あ～さ行（fusa）](https://ameblo.jp/books-fu-sa/entry-12632792879.html) （[出典](https://ameblo.jp/books-fu-sa/entry-12632792879.html)）
-- [📍 千葉県の山名由来 た～は行（fusa）](https://ameblo.jp/books-fu-sa/entry-12632793711.html) （[出典](https://ameblo.jp/books-fu-sa/entry-12632793711.html)）
-- [📍 千葉県の山名由来 ま～ら行（fusa）](https://ameblo.jp/books-fu-sa/entry-12632794254.html) （[出典](https://ameblo.jp/books-fu-sa/entry-12632794254.html)）
+- 📍 千葉県の山名由来 あ～さ行（fusa） （[出典](https://ameblo.jp/books-fu-sa/entry-12632792879.html)）
+- 📍 千葉県の山名由来 た～は行（fusa） （[出典](https://ameblo.jp/books-fu-sa/entry-12632793711.html)）
+- 📍 千葉県の山名由来 ま～ら行（fusa） （[出典](https://ameblo.jp/books-fu-sa/entry-12632794254.html)）
 
 ---
 
