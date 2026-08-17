@@ -1,3 +1,73 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Custom styles for awa-garden
+
+// Global typography and page layout
+.page {
+  width: 100%;
+}
+
+// Center article readability & responsive table styling
+article {
+  .table-container {
+    width: 100%;
+    max-width: 100%;
+    margin: 1.8rem 0;
+    border-radius: 8px;
+    border: 1px solid var(--lightgray);
+    background-color: var(--light);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+
+    table {
+      width: 100%;
+      min-width: 100%;
+      margin: 0;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      line-height: 1.45;
+
+      th {
+        background-color: color-mix(in srgb, var(--lightgray) 45%, var(--light));
+        color: var(--dark);
+        font-weight: 600;
+        padding: 0.65rem 0.8rem;
+        border-bottom: 2px solid var(--gray);
+        white-space: nowrap;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+      }
+
+      td {
+        padding: 0.55rem 0.8rem;
+        border-bottom: 1px solid var(--lightgray);
+        vertical-align: top;
+        font-size: 0.88rem;
+      }
+
+      tr:nth-child(even) td {
+        background-color: color-mix(in srgb, var(--lightgray) 15%, transparent);
+      }
+
+      tr:hover td {
+        background-color: color-mix(in srgb, var(--highlight) 35%, transparent);
+      }
+
+      tr:last-child td {
+        border-bottom: none;
+      }
+    }
+  }
+}
+
+// Ensure Mermaid diagrams fit full width
+pre:has(> code.mermaid) {
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  background: transparent;
+  border: none;
+}

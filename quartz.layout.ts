@@ -6,6 +6,8 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    // 左右サイドバーの折りたたみトグルボタン（フローティング）
+    Component.SidebarToggle(),
     // SNSシェアボタン（X / Facebook / LINE / URLコピー）。トップページにも表示
     Component.ShareButtons(),
     Component.ConditionalRender({
@@ -52,6 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.WideModeToggle() },
         { Component: Component.ReaderMode() },
       ],
     }),
@@ -78,6 +81,7 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.WideModeToggle() },
       ],
     }),
     Component.Explorer(),

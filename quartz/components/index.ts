@@ -26,6 +26,7 @@ import ShareButtons from "./ShareButtons"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import ContentLicense from "./ContentLicense"
+import SidebarToggle, { WideModeToggle } from "./SidebarToggle"
 
 export {
   ArticleTitle,
@@ -34,6 +35,8 @@ export {
   FolderContent,
   Darkmode,
   ReaderMode,
+  SidebarToggle,
+  WideModeToggle,
   Head,
   PageTitle,
   ContentMeta,
