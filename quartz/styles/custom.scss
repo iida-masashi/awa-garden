@@ -71,3 +71,113 @@ pre:has(> code.mermaid) {
   background: transparent;
   border: none;
 }
+
+// Mermaid diagram typography & high-contrast styling
+.mermaid {
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 1.5;
+
+  svg {
+    max-width: 100%;
+    height: auto;
+    overflow: visible;
+
+    // Node labels
+    .nodeLabel, .label {
+      font-size: 13.5px !important;
+      font-weight: 500 !important;
+      line-height: 1.45 !important;
+    }
+
+    // Edge labels
+    .edgeLabel {
+      font-size: 12px !important;
+      background-color: var(--light) !important;
+      padding: 2px 4px !important;
+      border-radius: 4px;
+    }
+
+    // Subgraph / Cluster titles
+    .cluster-label span, .cluster-label text {
+      font-size: 17px !important;
+      font-weight: 700 !important;
+    }
+
+    // High Contrast White Text for Dark Background Nodes (背景が濃い色の場合は文字を白色に)
+    g.node.ancient, g.node.sect, g.node.event, g.node.influence, g.node.root, g.node.main,
+    g.node.cpgCore, g.node.company, g.node.role, g.node.mgmt, g.node.spec, g.node.feature,
+    g.node.c1, g.node.c2, g.node.c3, g.node.c4, g.node.c5, g.node.c6, g.node.dark {
+      text, tspan, .nodeLabel, span, div, p, b, strong {
+        color: #ffffff !important;
+        fill: #ffffff !important;
+        -webkit-text-fill-color: #ffffff !important;
+      }
+    }
+
+    g.node:has(rect[fill^="#0"]), g.node:has(rect[fill^="#1"]), g.node:has(rect[fill^="#2"]),
+    g.node:has(rect[fill^="#3"]), g.node:has(rect[fill^="#4"]), g.node:has(rect[fill^="#5"]),
+    g.node:has(rect[fill^="#6"]), g.node:has(rect[fill^="#7"]), g.node:has(rect[fill^="#8"]),
+    g.node:has(rect[style*="fill:#0"]), g.node:has(rect[style*="fill:#1"]), g.node:has(rect[style*="fill:#2"]),
+    g.node:has(rect[style*="fill:#3"]), g.node:has(rect[style*="fill:#4"]), g.node:has(rect[style*="fill:#5"]),
+    g.node:has(rect[style*="fill:#6"]), g.node:has(rect[style*="fill:#7"]), g.node:has(rect[style*="fill:#8"]),
+    g.node:has(rect[style*="fill: #0"]), g.node:has(rect[style*="fill: #1"]), g.node:has(rect[style*="fill: #2"]),
+    g.node:has(rect[style*="fill: #3"]), g.node:has(rect[style*="fill: #4"]), g.node:has(rect[style*="fill: #5"]),
+    g.node:has(rect[style*="fill: #6"]), g.node:has(rect[style*="fill: #7"]), g.node:has(rect[style*="fill: #8"]) {
+      text, tspan, .nodeLabel, span, div, p, b, strong {
+        color: #ffffff !important;
+        fill: #ffffff !important;
+        -webkit-text-fill-color: #ffffff !important;
+      }
+    }
+
+    .cluster:has(rect[fill^="#0"]) .cluster-label span,
+    .cluster:has(rect[fill^="#1"]) .cluster-label span,
+    .cluster:has(rect[fill^="#2"]) .cluster-label span,
+    .cluster:has(rect[fill^="#3"]) .cluster-label span,
+    .cluster:has(rect[fill^="#4"]) .cluster-label span,
+    .cluster:has(rect[fill^="#5"]) .cluster-label span,
+    .cluster:has(rect[fill^="#6"]) .cluster-label span,
+    .cluster:has(rect[fill^="#7"]) .cluster-label span,
+    .cluster:has(rect[fill^="#8"]) .cluster-label span {
+      color: #ffffff !important;
+      fill: #ffffff !important;
+      -webkit-text-fill-color: #ffffff !important;
+    }
+  }
+}
+
+// 拡大モーダル（Zoom Modal: #mermaid-container / #mermaid-space / .mermaid-content）および通常Mermaid全域での高コントラスト保証
+#mermaid-container, #mermaid-space, .mermaid-content, .mermaid {
+  [style*="color:#ffffff"], [style*="color: #ffffff"], [style*="color:#fff"], [style*="color: #fff"] {
+    color: #ffffff !important;
+    fill: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+
+    * {
+      color: #ffffff !important;
+      fill: #ffffff !important;
+      -webkit-text-fill-color: #ffffff !important;
+    }
+  }
+
+  g.node.ancient, g.node.sect, g.node.event, g.node.influence, g.node.root, g.node.main,
+  g.node.cpgCore, g.node.company, g.node.role, g.node.mgmt, g.node.spec, g.node.feature,
+  g.node.c1, g.node.c2, g.node.c3, g.node.c4, g.node.c5, g.node.c6, g.node.dark {
+    * {
+      color: #ffffff !important;
+      fill: #ffffff !important;
+      -webkit-text-fill-color: #ffffff !important;
+    }
+  }
+
+  g.node:has(rect[fill^="#0"]), g.node:has(rect[fill^="#1"]), g.node:has(rect[fill^="#2"]),
+  g.node:has(rect[fill^="#3"]), g.node:has(rect[fill^="#4"]), g.node:has(rect[fill^="#5"]),
+  g.node:has(rect[fill^="#6"]), g.node:has(rect[fill^="#7"]), g.node:has(rect[fill^="#8"]) {
+    * {
+      color: #ffffff !important;
+      fill: #ffffff !important;
+      -webkit-text-fill-color: #ffffff !important;
+    }
+  }
+}

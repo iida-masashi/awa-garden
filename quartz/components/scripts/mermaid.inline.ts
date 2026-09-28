@@ -184,6 +184,63 @@ const cssVars = [
   "--codeFont",
 ] as const
 
+function isDarkColorHex(colorStr: string): boolean {
+  let hex = colorStr.trim()
+  if (hex.startsWith("#")) hex = hex.slice(1)
+  if (hex.startsWith("rgb")) {
+    const match = hex.match(/\d+/g)
+    if (match && match.length >= 3) {
+      const r = parseInt(match[0], 10)
+      const g = parseInt(match[1], 10)
+      const b = parseInt(match[2], 10)
+      return 0.299 * r + 0.587 * g + 0.114 * b < 135
+    }
+    return false
+  }
+  if (/^[0-9a-fA-F]{3}$/.test(hex)) {
+    const r = parseInt(hex[0] + hex[0], 16)
+    const g = parseInt(hex[1] + hex[1], 16)
+    const b = parseInt(hex[2] + hex[2], 16)
+    return 0.299 * r + 0.587 * g + 0.114 * b < 135
+  }
+  if (/^[0-9a-fA-F]{6}$/.test(hex)) {
+    const r = parseInt(hex.substring(0, 2), 16)
+    const g = parseInt(hex.substring(2, 4), 16)
+    const b = parseInt(hex.substring(4, 6), 16)
+    return 0.299 * r + 0.587 * g + 0.114 * b < 135
+  }
+  return false
+}
+
+function ensureHighContrastText(svg: SVGElement) {
+  const nodes = svg.querySelectorAll("g.node")
+  for (const node of nodes) {
+    const classAttr = node.getAttribute("class") || ""
+    const shape = node.querySelector("rect, polygon, circle, path")
+    let hasDarkFill = false
+    if (shape) {
+      const fill = shape.getAttribute("fill") || window.getComputedStyle(shape).fill
+      if (fill && isDarkColorHex(fill)) {
+        hasDarkFill = true
+      }
+    }
+    const hasDarkClass = /(ancient|sect|event|influence|root|main|expelled|cult|mil|gov|branch|dark|cpgCore|company|role|mgmt|spec|feature|c[1-6])/i.test(classAttr)
+
+    if (hasDarkFill || hasDarkClass) {
+      const textElems = node.querySelectorAll(".nodeLabel, .nodeLabel *, text, span, p, div")
+      for (const el of textElems) {
+        if (el instanceof HTMLElement) {
+          el.style.setProperty("color", "#ffffff", "important")
+          el.style.setProperty("-webkit-text-fill-color", "#ffffff", "important")
+        }
+        if (el instanceof SVGElement) {
+          el.style.setProperty("fill", "#ffffff", "important")
+        }
+      }
+    }
+  }
+}
+
 let mermaidImport = undefined
 document.addEventListener("nav", async () => {
   const center = document.querySelector(".center") as HTMLElement
@@ -238,6 +295,14 @@ document.addEventListener("nav", async () => {
     })
 
     await mermaid.run({ nodes })
+
+    // Apply high-contrast white text hygiene to all rendered diagrams
+    for (const node of nodes) {
+      const svg = node.querySelector("svg")
+      if (svg) {
+        ensureHighContrastText(svg)
+      }
+    }
   }
 
   await renderMermaid()
@@ -273,6 +338,7 @@ document.addEventListener("nav", async () => {
 
       // Clone the mermaid content
       const mermaidContent = codeBlock.querySelector("svg")!.cloneNode(true) as SVGElement
+      ensureHighContrastText(mermaidContent)
       content.appendChild(mermaidContent)
 
       // Show container
