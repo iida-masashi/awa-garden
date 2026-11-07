@@ -1,6 +1,6 @@
 ---
 aliases: [国造MoC, 国造マップ, 阿波系国造MoC, 国造目次]
-tags: [MoC, 国造論, 国造本紀, 東遷論, 氏族/粟国造, 氏族/長国造, 氏族/多氏, 氏族/忌部氏, 阿波説総合]
+tags: [MOC, 国造論, 国造本紀, 東遷論, 氏族/粟国造, 氏族/長国造, 氏族/多氏, 氏族/忌部氏, 阿波説総合]
 分類: MoC（Map of Content）
 地域: 全国（阿波接続を重点）
 evidence_type: primary_source_based / fringe_hypothesis

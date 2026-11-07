@@ -80,7 +80,7 @@ tags:
 
 　 これらに関連して、尾張氏や海部氏につながる度会神主氏や
 
-**[六人部氏](../mutobe/mutobekei1.htm)**
+**[六人部氏](http://wwr2.ucom.ne.jp/hetoyc15/keihu/mutobe/mutobekei1.htm)**
 
 でも、偽撰系図を現在に伝えており、これら系図に限らず、この一族に関連する系図史料は偽作に溢れている。
 

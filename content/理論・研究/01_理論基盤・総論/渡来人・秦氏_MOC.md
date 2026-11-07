@@ -1,6 +1,6 @@
 ---
 aliases: [渡来人秦氏MOC, 渡来系氏族MoC, 渡来人マップ, 秦氏MoC, 阿波渡来氏族MoC]
-tags: [MoC, 渡来人, 渡来系氏族, 氏族/秦氏, 氏族/東漢氏, 氏族/阿波忌部, 鉱山開発, 養蚕, 阿波説総合]
+tags: [MOC, 渡来人, 渡来系氏族, 氏族/秦氏, 氏族/東漢氏, 氏族/阿波忌部, 鉱山開発, 養蚕, 阿波説総合]
 分類: MoC（Map of Content）
 地域: 全国（阿波・四国を重点）
 evidence_type: primary_source_based / blog_hypothesis
