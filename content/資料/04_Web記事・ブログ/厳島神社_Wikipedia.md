@@ -1,0 +1,1255 @@
+---
+title: "厳島神社"
+source: "https://ja.wikipedia.org/wiki/厳島神社"
+created_at: "2026-11-14T20:12:59Z"
+tags:
+  - "wikipedia"
+  - "ja"
+---
+
+厳島神社 - Wikipedia
+
+[コンテンツにスキップ](#bodyContent)
+
+メインメニュー
+
+メインメニュー
+
+サイドバーに移動
+非表示
+
+案内
+
+* [メインページ](/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8 "メインページに移動する [z]")
+* [コミュニティ・ポータル](/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB "このプロジェクトについて、できること、情報を入手する場所")
+* [最近の出来事](/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B "最近の出来事の背景を知る")
+* [新しいページ](/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8 "最近新規に作成されたページの一覧")
+* [最近の更新](/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0 "このウィキにおける最近の更新の一覧 [r]")
+* [おまかせ表示](/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA "無作為に選択されたページを読み込む [x]")
+* [練習用ページ](/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9 "練習用のページ")
+* [アップロード (ウィキメディア・コモンズ)](//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja "画像やメディアファイルをウィキメディア・コモンズにアップロード")
+* [特別ページ](/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7 "特別ページの一覧 [q]")
+
+ヘルプ
+
+* [ヘルプ](/wiki/Help:%E7%9B%AE%E6%AC%A1 "情報を得る場所")
+* [利用案内](/wiki/Wikipedia:%E5%88%A9%E7%94%A8%E6%A1%88%E5%86%85)
+* [井戸端](/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF "プロジェクトについての意見交換")
+* [お知らせ](/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B "プロジェクトについてのお知らせ")
+* [バグの報告](/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A "ウィキペディア・ソフトウェアのバグ報告")
+* [ウィキペディアに関するお問い合わせ](/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88 "ウィキペディアやウィキメディア財団に関する連絡先")
+
+[![](images/wikipedia.png)
+
+![Wikipedia](images/wikipedia-wordmark-ja.svg)
+![](images/wikipedia-tagline-ja.svg)](/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
+
+[検索](/wiki/%E7%89%B9%E5%88%A5:%E6%A4%9C%E7%B4%A2 "Wikipedia内を検索 [f]")
+
+検索
+
+表示
+
+* [寄付](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ja.wikipedia.org&uselang=ja)
+* [アカウント作成](/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&returnto=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE "アカウントを作成してログインすることをお勧めしますが、必須ではありません")
+* [ログイン](/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&returnto=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE "ログインすることを推奨します。ただし、必須ではありません。 [o]")
+
+個人用ツール
+
+* [寄付](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ja.wikipedia.org&uselang=ja)
+* [アカウント作成](/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&returnto=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE "アカウントを作成してログインすることをお勧めしますが、必須ではありません")
+* [ログイン](/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&returnto=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE "ログインすることを推奨します。ただし、必須ではありません。 [o]")
+
+## 目次
+
+サイドバーに移動
+非表示
+
+* [ページ先頭](#)
+* [1
+  祭神](#祭神)
+* [2
+  歴史](#歴史)
+
+
+  歴史サブセクションを切り替えます
+  + [2.1
+    創建](#創建)
+  + [2.2
+    概史](#概史)
+  + [2.3
+    神階](#神階)
+  + [2.4
+    神職](#神職)
+  + [2.5
+    被害](#被害)
+* [3
+  社殿](#社殿)
+
+
+  社殿サブセクションを切り替えます
+  + [3.1
+    本社](#本社)
+  + [3.2
+    客神社](#客神社)
+  + [3.3
+    廻廊](#廻廊)
+  + [3.4
+    摂社、末社、附属建物](#摂社、末社、附属建物)
+  + [3.5
+    大鳥居](#大鳥居)
+  + [3.6
+    一遍上人絵伝に描かれる厳島神社](#一遍上人絵伝に描かれる厳島神社)
+* [4
+  摂末社](#摂末社)
+
+
+  摂末社サブセクションを切り替えます
+  + [4.1
+    外宮](#外宮)
+  + [4.2
+    奥宮](#奥宮)
+  + [4.3
+    摂社](#摂社)
+    - [4.3.1
+      境内摂社](#境内摂社)
+    - [4.3.2
+      境外摂社](#境外摂社)
+  + [4.4
+    末社](#末社)
+    - [4.4.1
+      宮島七浦の末社](#宮島七浦の末社)
+* [5
+  祭事](#祭事)
+
+
+  祭事サブセクションを切り替えます
+  + [5.1
+    年間祭事](#年間祭事)
+  + [5.2
+    管絃祭](#管絃祭)
+* [6
+  文化財](#文化財)
+
+
+  文化財サブセクションを切り替えます
+  + [6.1
+    国宝](#国宝)
+    - [6.1.1
+      建造物](#建造物)
+    - [6.1.2
+      美術工芸品](#美術工芸品)
+  + [6.2
+    重要文化財](#重要文化財)
+    - [6.2.1
+      建造物（重要文化財）](#建造物（重要文化財）)
+    - [6.2.2
+      美術工芸品（重要文化財）](#美術工芸品（重要文化財）)
+  + [6.3
+    国の登録有形文化財](#国の登録有形文化財)
+  + [6.4
+    国の特別史跡・特別名勝](#国の特別史跡・特別名勝)
+  + [6.5
+    広島県指定重要文化財](#広島県指定重要文化財)
+  + [6.6
+    名所・旧跡](#名所・旧跡)
+  + [6.7
+    その他](#その他)
+* [7
+  世界遺産の登録](#世界遺産の登録)
+* [8
+  現地情報](#現地情報)
+
+
+  現地情報サブセクションを切り替えます
+  + [8.1
+    所在地](#所在地)
+  + [8.2
+    拝観時間](#拝観時間)
+  + [8.3
+    付属施設](#付属施設)
+  + [8.4
+    交通アクセス](#交通アクセス)
+  + [8.5
+    周辺](#周辺)
+* [9
+  関連作品](#関連作品)
+
+
+  関連作品サブセクションを切り替えます
+  + [9.1
+    描かれた厳島神社](#描かれた厳島神社)
+  + [9.2
+    音楽](#音楽)
+* [10
+  テレビ番組](#テレビ番組)
+* [11
+  関連項目](#関連項目)
+* [12
+  脚注](#脚注)
+
+
+  脚注サブセクションを切り替えます
+  + [12.1
+    注釈](#注釈)
+  + [12.2
+    出典](#出典)
+* [13
+  参考文献](#参考文献)
+* [14
+  外部リンク](#外部リンク)
+
+目次の表示・非表示を切り替え
+
+# 厳島神社
+
+66 個の言語版
+
+* [العربية](https://ar.wikipedia.org/wiki/%D8%B6%D8%B1%D9%8A%D8%AD_%D8%A5%D9%8A%D8%AA%D8%B3%D9%88%D9%83%D9%88%D8%B4%D9%8A%D9%85%D8%A7 "アラビア語: ضريح إيتسوكوشيما")
+* [مصرى](https://arz.wikipedia.org/wiki/%D8%B6%D8%B1%D9%8A%D8%AD_%D8%A7%D9%8A%D8%AA%D8%B3_%D9%88_%D9%83%D9%88%D8%B4%D9%8A%D9%85%D8%A7 "エジプト・アラビア語: ضريح ايتس و كوشيما")
+* [Asturianu](https://ast.wikipedia.org/wiki/Santuariu_Itsukushima "アストゥリアス語: Santuariu Itsukushima")
+* [Azərbaycanca](https://az.wikipedia.org/wiki/%C4%B0tsuku%C5%9Fima_m%C9%99b%C9%99di "アゼルバイジャン語: İtsukuşima məbədi")
+* [Башҡортса](https://ba.wikipedia.org/wiki/%D0%98%D1%86%D1%83%D0%BA%D1%83%D1%81%D0%B8%D0%BC%D0%B0_%D2%93%D0%B8%D0%B1%D3%99%D2%99%D3%99%D1%82%D1%85%D0%B0%D0%BD%D0%B0%D2%BB%D1%8B "バシキール語: Ицукусима ғибәҙәтханаһы")
+* [Basa Bali](https://ban.wikipedia.org/wiki/Kuil_Itsukushima "バリ語: Kuil Itsukushima")
+* [Български](https://bg.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BD%D1%82%D0%BE%D0%B8%D1%81%D1%82%D0%BA%D0%BE_%D1%81%D0%B2%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%BD%D0%B0_%D0%98%D1%86%D1%83%D0%BA%D1%83%D1%88%D0%B8%D0%BC%D0%B0 "ブルガリア語: Шинтоистко светилище на Ицукушима")
+* [Català](https://ca.wikipedia.org/wiki/Santuari_d%27Itsukushima "カタロニア語: Santuari d'Itsukushima")
+* [Čeština](https://cs.wikipedia.org/wiki/Svatyn%C4%9B_Icuku%C5%A1ima "チェコ語: Svatyně Icukušima")
+* [Deutsch](https://de.wikipedia.org/wiki/Itsukushima-Schrein "ドイツ語: Itsukushima-Schrein")
+* [Ελληνικά](https://el.wikipedia.org/wiki/%CE%99%CE%B5%CF%81%CF%8C_%CF%84%CE%B7%CF%82_%CE%99%CF%84%CF%83%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CF%83%CE%AF%CE%BC%CE%B1 "ギリシャ語: Ιερό της Ιτσουκουσίμα")
+* [English](https://en.wikipedia.org/wiki/Itsukushima_Shrine "英語: Itsukushima Shrine")
+* [Esperanto](https://eo.wikipedia.org/wiki/Sanktejo_de_Itsukushima "エスペラント語: Sanktejo de Itsukushima")
+* [Español](https://es.wikipedia.org/wiki/Santuario_Itsukushima "スペイン語: Santuario Itsukushima")
+* [Euskara](https://eu.wikipedia.org/wiki/Itsukushima_santutegia "バスク語: Itsukushima santutegia")
+* [فارسی](https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%DB%8C%D8%AA%D8%B3%D9%88%DA%A9%D9%88%D8%B4%DB%8C%D9%85%D8%A7 "ペルシア語: معبد ایتسوکوشیما")
+* [Suomi](https://fi.wikipedia.org/wiki/Itsukushima-jinja "フィンランド語: Itsukushima-jinja")
+* [Français](https://fr.wikipedia.org/wiki/Itsukushima-jinja "フランス語: Itsukushima-jinja")
+* [Galego](https://gl.wikipedia.org/wiki/Santuario_Itsukushima "ガリシア語: Santuario Itsukushima")
+* [עברית](https://he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%93%D7%A9_%D7%94%D7%A9%D7%99%D7%A0%D7%98%D7%95_%D7%91%D7%90%D7%99%D7%A6%D7%95%D7%A7%D7%95%D7%A9%D7%99%D7%9E%D7%94 "ヘブライ語: מקדש השינטו באיצוקושימה")
+* [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%81%E0%A4%95%E0%A5%81%E0%A4%B6%E0%A5%80%E0%A4%AE%E0%A4%BE_%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0 "ヒンディー語: इत्सुकुशीमा मंदिर")
+* [Hrvatski](https://hr.wikipedia.org/wiki/Sveti%C5%A1te_Itsukushima "クロアチア語: Svetište Itsukushima")
+* [Magyar](https://hu.wikipedia.org/wiki/Icukusimai_szent%C3%A9ly "ハンガリー語: Icukusimai szentély")
+* [Հայերեն](https://hy.wikipedia.org/wiki/%D4%BB%D6%81%D5%B8%D6%82%D5%AF%D5%B8%D6%82%D5%BD%D5%AB%D5%B4%D5%A1_%D5%AF%D5%B8%D5%A9%D5%B8%D5%B2 "アルメニア語: Իցուկուսիմա կոթող")
+* [Bahasa Indonesia](https://id.wikipedia.org/wiki/Kuil_Itsukushima "インドネシア語: Kuil Itsukushima")
+* [Italiano](https://it.wikipedia.org/wiki/Santuario_di_Itsukushima "イタリア語: Santuario di Itsukushima")
+* [Jawa](https://jv.wikipedia.org/wiki/Itsukushima_Shrine "ジャワ語: Itsukushima Shrine")
+* [ქართული](https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%AA%E1%83%A3%E1%83%99%E1%83%A3%E1%83%A1%E1%83%98%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%A2%E1%83%90%E1%83%AB%E1%83%90%E1%83%A0%E1%83%98 "ジョージア語: იცუკუსიმის ტაძარი")
+* [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%87%E0%B2%A4%E0%B3%8D%E0%B2%B8%E0%B3%81%E0%B2%95%E0%B3%81%E0%B2%B6%E0%B2%BF%E0%B2%AE%E0%B2%BE_%E0%B2%B6%E0%B2%BF%E0%B2%82%E0%B2%9F%E0%B3%8B_%E0%B2%A6%E0%B3%87%E0%B2%97%E0%B3%81%E0%B2%B2 "カンナダ語: ಇತ್ಸುಕುಶಿಮಾ ಶಿಂಟೋ ದೇಗುಲ")
+* [한국어](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%93%B0%EC%BF%A0%EC%8B%9C%EB%A7%88_%EC%8B%A0%EC%82%AC "韓国語: 이쓰쿠시마 신사")
+* [کٲشُر](https://ks.wikipedia.org/wiki/%D8%A7%D9%90%DA%98%D9%8F%DA%A9%D9%8F%D8%B4%D9%90%D9%85%D8%A7_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86 "カシミール語: اِژُکُشِما استان")
+* [Latina](https://la.wikipedia.org/wiki/Itsukushima_Templum "ラテン語: Itsukushima Templum")
+* [Lietuvių](https://lt.wikipedia.org/wiki/Icuku%C5%A1imos_%C5%A1ventykla "リトアニア語: Icukušimos šventykla")
+* [Latviešu](https://lv.wikipedia.org/wiki/Icuku%C5%A1imas_templis "ラトビア語: Icukušimas templis")
+* [Македонски](https://mk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%88%D1%82%D0%B5_%D0%98%D1%86%D1%83%D0%BA%D1%83%D1%88%D0%B8%D0%BC%D0%B0 "マケドニア語: Светилиште Ицукушима")
+* [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%87%E0%B4%A4%E0%B5%8D%E0%B4%B8%E0%B5%81%E0%B4%95%E0%B5%81%E0%B4%B7%E0%B5%80%E0%B4%AE_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82 "マラヤーラム語: ഇത്സുകുഷീമ ക്ഷേത്രം")
+* [Bahasa Melayu](https://ms.wikipedia.org/wiki/Kuil_Itsukushima "マレー語: Kuil Itsukushima")
+* [Malti](https://mt.wikipedia.org/wiki/Santwarju_ta%27_Itsukushima "マルタ語: Santwarju ta' Itsukushima")
+* [Nederlands](https://nl.wikipedia.org/wiki/Itsukushima-schrijn "オランダ語: Itsukushima-schrijn")
+* [Norsk bokmål](https://no.wikipedia.org/wiki/Helligdommen_Itsukushima "ノルウェー語(ブークモール): Helligdommen Itsukushima")
+* [Polski](https://pl.wikipedia.org/wiki/Itsukushima-jinja "ポーランド語: Itsukushima-jinja")
+* [پنجابی](https://pnb.wikipedia.org/wiki/%D8%A7%D9%B9%D8%B3%D9%88%DA%A9%D9%88%D8%B4%DB%8C%D9%85%D8%A7 "Western Punjabi: اٹسوکوشیما")
+* [Português](https://pt.wikipedia.org/wiki/Santu%C3%A1rio_de_Itsukushima "ポルトガル語: Santuário de Itsukushima")
+* [Русский](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%98%D1%86%D1%83%D0%BA%D1%83%D1%81%D0%B8%D0%BC%D0%B0 "ロシア語: Святилище Ицукусима")
+* [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/Sveti%C5%A1te_Itsukushima "セルボ・クロアチア語: Svetište Itsukushima")
+* [සිංහල](https://si.wikipedia.org/wiki/%E0%B6%89%E0%B6%AD%E0%B7%8A%E0%B7%83%E0%B7%8A%E0%B6%9A%E0%B7%94%E0%B7%82%E0%B7%92%E0%B6%B8%E0%B7%8F_%E0%B7%80%E0%B7%92%E0%B7%84%E0%B7%8F%E0%B6%BB%E0%B6%BA "シンハラ語: ඉත්ස්කුෂිමා විහාරය")
+* [Simple English](https://simple.wikipedia.org/wiki/Itsukushima_Shrine "シンプル英語: Itsukushima Shrine")
+* [Slovenčina](https://sk.wikipedia.org/wiki/Icuku%C5%A1ima-d%C5%BEind%C5%BEa "スロバキア語: Icukušima-džindža")
+* [Slovenščina](https://sl.wikipedia.org/wiki/Sveti%C5%A1%C4%8De_Icuku%C5%A1ima "スロベニア語: Svetišče Icukušima")
+* [Shqip](https://sq.wikipedia.org/wiki/Tempulli_Itsukushima "アルバニア語: Tempulli Itsukushima")
+* [Српски / srpski](https://sr.wikipedia.org/wiki/Svetili%C5%A1te_Icuku%C5%A1ima "セルビア語: Svetilište Icukušima")
+* [Svenska](https://sv.wikipedia.org/wiki/Itsukushima "スウェーデン語: Itsukushima")
+* [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%95%E0%AF%81%E0%AE%9A%E0%AE%BF%E0%AE%AE%E0%AE%BE_%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D "タミル語: இட்சுகுசிமா கோயில்")
+* [తెలుగు](https://te.wikipedia.org/wiki/%E0%B0%87%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B1%81%E0%B0%95%E0%B1%81%E0%B0%B7%E0%B0%BF%E0%B0%AE%E0%B0%BE_%E0%B0%AA%E0%B1%81%E0%B0%A3%E0%B1%8D%E0%B0%AF%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%87%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%82 "テルグ語: ఇత్సుకుషిమా పుణ్యక్షేత్రం")
+* [ไทย](https://th.wikipedia.org/wiki/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%95%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B8%B9%E0%B8%8A%E0%B8%B4%E0%B8%A1%E0%B8%B0 "タイ語: ศาลเจ้าอิตสึกูชิมะ")
+* [Tagalog](https://tl.wikipedia.org/wiki/Dambanang_Itsukushima "タガログ語: Dambanang Itsukushima")
+* [Toki pona](https://tok.wikipedia.org/wiki/tomo_sewi_Itukusima "トキポナ語: tomo sewi Itukusima")
+* [Türkçe](https://tr.wikipedia.org/wiki/Itsuku%C5%9Fima_Tap%C4%B1na%C4%9F%C4%B1 "トルコ語: Itsukuşima Tapınağı")
+* [Українська](https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%86%D1%86%D1%83%D0%BA%D1%83%D1%81%D1%96%D0%BC%D0%B0 "ウクライナ語: Святилище Іцукусіма")
+* [Oʻzbekcha / ўзбекча](https://uz.wikipedia.org/wiki/Itsukushima_ibodatxonasi "ウズベク語: Itsukushima ibodatxonasi")
+* [Tiếng Việt](https://vi.wikipedia.org/wiki/Th%E1%BA%A7n_x%C3%A3_Itsukushima "ベトナム語: Thần xã Itsukushima")
+* [Winaray](https://war.wikipedia.org/wiki/Santuwaryo_han_Itsukushima "ワライ語: Santuwaryo han Itsukushima")
+* [吴语](https://wuu.wikipedia.org/wiki/%E4%B8%A5%E5%B2%9B%E7%A5%9E%E7%A4%BE "呉語: 严岛神社")
+* [閩南語 / Bân-lâm-gí](https://zh-min-nan.wikipedia.org/wiki/Itukusima_S%C3%AEn-si%C4%81 "閩南語: Itukusima Sîn-siā")
+* [粵語](https://zh-yue.wikipedia.org/wiki/%E5%9A%B4%E5%B3%B6%E7%A5%9E%E7%A4%BE "広東語: 嚴島神社")
+* [中文](https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%B2%9B%E7%A5%9E%E7%A4%BE "中国語: 严岛神社")
+
+[リンクを編集](https://www.wikidata.org/wiki/Special:EntityPage/Q191763#sitelinks-wikipedia "言語間リンクを編集")
+
+* [ページ](/wiki/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE "コンテンツページを表示 [c]")
+* [ノート](/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE "コンテンツページについての議論 [t]")
+
+日本語
+
+* [閲覧](/wiki/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE)
+* [編集](/w/index.php?title=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&action=edit "このページのソースコードを編集する [e]")
+* [履歴を表示](/w/index.php?title=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&action=history "このページの過去の版 [h]")
+* [保存](# "このページを保存済み項目に追加する")
+
+
+
+ツール
+
+ツール
+
+サイドバーに移動
+非表示
+
+操作
+
+* [閲覧](/wiki/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE)
+* [編集](/w/index.php?title=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&action=edit "このページのソースコードを編集する [e]")
+* [履歴を表示](/w/index.php?title=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&action=history "このページの過去の版 [h]")
+* [保存](# "このページを保存済み項目に追加する")
+
+全般
+
+* [リンク元](/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE "ここにリンクしている全ウィキページの一覧 [j]")
+* [関連ページの更新状況](/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE "このページからリンクしているページの最近の更新 [k]")
+* [ファイルをアップロード](//ja.wikipedia.org/wiki/Wikipedia:ファイルのアップロード "ファイルをアップロードする [u]")
+* [この版への固定リンク](/w/index.php?title=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&oldid=111723888 "このページのこの版への固定リンク")
+* [ページ情報](/w/index.php?title=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&action=info "このページについての詳細情報")
+* [このページを引用](/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&page=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&id=111723888&wpFormIdentifier=titleform "このページの引用方法")
+* [短縮URLを取得する](/w/index.php?title=%E7%89%B9%E5%88%A5:UrlShortener&url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E5%258E%25B3%25E5%25B3%25B6%25E7%25A5%259E%25E7%25A4%25BE)
+* [レガシーパーサーに切り替え](/w/index.php?title=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&useparsoid=0)
+
+印刷/書き出し
+
+* [ブックの新規作成](/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&bookcmd=book_creator&referer=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE)
+* [PDF 形式でダウンロード](/w/index.php?title=%E7%89%B9%E5%88%A5:DownloadAsPdf&page=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&action=show-download-screen)
+* [印刷用バージョン](javascript:print(); "このページの印刷用ページ [p]")
+
+他のプロジェクト
+
+* [抽象ウィキぺディア](https://abstract.wikipedia.org/wiki/Q191763)
+* [コモンズ](https://commons.wikimedia.org/wiki/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE)
+* [ウィキボヤージュ](https://ja.wikivoyage.org/wiki/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE)
+* [ウィキデータ項目](https://www.wikidata.org/wiki/Special:EntityPage/Q191763 "関連付けられたデータリポジトリ項目へのリンク [g]")
+
+表示
+
+サイドバーに移動
+非表示
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+|  |
+| --- |
+| この項目では、[広島県](https://ja.wikipedia.org/wiki/広島県 "広島県")[廿日市市](https://ja.wikipedia.org/wiki/廿日市市 "廿日市市")の総本社について説明しています。その他の厳島神社については「[厳島神社 (曖昧さ回避)](https://ja.wikipedia.org/wiki/厳島神社_(曖昧さ回避) "厳島神社 (曖昧さ回避)")」をご覧ください。 |
+
+[![](images/250px-201201-TaroTokyo-Itsukushima-DSC08992.jpg)](https://ja.wikipedia.org/wiki/ファイル:201201-TaroTokyo-Itsukushima-DSC08992.jpg)
+
+境内 全景（弥山中腹より）
+
+[![](images/250px-Secretary_Kerry_Sits_With_Japanese_Foreign_Minister_Kishida_and_His_Counterparts_at_the_Miyajima_Island_(26319154496).jpg)](https://ja.wikipedia.org/wiki/ファイル:Secretary_Kerry_Sits_With_Japanese_Foreign_Minister_Kishida_and_His_Counterparts_at_the_Miyajima_Island_(26319154496).jpg)
+
+2016年G7広島外相会合における平舞台での雅楽。
+
+**厳島神社**（いつくしまじんじゃ、公式表記:**嚴島神社**）は、[広島県](https://ja.wikipedia.org/wiki/広島県 "広島県")[廿日市市](https://ja.wikipedia.org/wiki/廿日市市 "廿日市市")の[厳島（宮島）](https://ja.wikipedia.org/wiki/厳島 "厳島")にある[神社](https://ja.wikipedia.org/wiki/神社 "神社")。[式内社](https://ja.wikipedia.org/wiki/式内社 "式内社")（[名神大社](https://ja.wikipedia.org/wiki/名神大社 "名神大社")）、[安芸国](https://ja.wikipedia.org/wiki/安芸国 "安芸国")[一宮](https://ja.wikipedia.org/wiki/一宮 "一宮")。[旧社格](https://ja.wikipedia.org/wiki/近代社格制度 "近代社格制度")は[官幣中社](https://ja.wikipedia.org/wiki/官幣中社 "官幣中社")で、現在は[神社本庁](https://ja.wikipedia.org/wiki/神社本庁 "神社本庁")の[別表神社](https://ja.wikipedia.org/wiki/別表神社 "別表神社")。[神紋](https://ja.wikipedia.org/wiki/神紋 "神紋")は「三つ盛り二重亀甲に剣花菱」。古くは「伊都岐島神社」とも記された。全国に約500社ある[厳島神社](https://ja.wikipedia.org/wiki/厳島神社_(曖昧さ回避) "厳島神社 (曖昧さ回避)")の総本社である。
+
+[佐伯直](https://ja.wikipedia.org/wiki/佐伯直 "佐伯直")の直系が代々世襲して来たとされているが、一時期[藤原氏](https://ja.wikipedia.org/wiki/厳島神主家#藤原氏の時代（鎌倉時代初期_～_南北朝動乱期） "厳島神主家")に横取りされた時期があったものの政略結婚により取り戻し、古代から現在も続いていると記載されている。
+
+[広島湾](https://ja.wikipedia.org/wiki/広島湾 "広島湾")に浮かぶ[厳島](https://ja.wikipedia.org/wiki/厳島 "厳島")（宮島）の北東部、[弥山](https://ja.wikipedia.org/wiki/弥山_(広島県) "弥山 (広島県)")（標高535メートル）北麓に鎮座する。厳島は一般に「**安芸の宮島**」とも呼ばれ**[日本三景](https://ja.wikipedia.org/wiki/日本三景 "日本三景")**のひとつに数えられている。[平家](https://ja.wikipedia.org/wiki/平家 "平家")から信仰され、[平清盛](https://ja.wikipedia.org/wiki/平清盛 "平清盛")により現在の海上に立つ大規模な社殿が整えられた。社殿は現在、本殿・拝殿・回廊など6棟が国宝に、14棟が重要文化財に指定されている。そのほか、平家の納めた[平家納経](https://ja.wikipedia.org/wiki/平家納経 "平家納経")をはじめとした国宝・重要文化財の工芸品を多数納めている。
+
+厳島神社の平舞台（国宝：附指定）は[日本三舞台](https://ja.wikipedia.org/wiki/日本三舞台 "日本三舞台")の1つに数えられるほか、海上に立つ高さ16メートルの[大鳥居](https://ja.wikipedia.org/wiki/厳島神社大鳥居 "厳島神社大鳥居")（[重要文化財](https://ja.wikipedia.org/wiki/重要文化財 "重要文化財")）は日本三大鳥居のひとつである。また、夏に行われる[例祭](https://ja.wikipedia.org/wiki/例祭 "例祭")は「**[管絃祭](https://ja.wikipedia.org/wiki/管絃祭 "管絃祭")**」と呼ばれている。[1996年](https://ja.wikipedia.org/wiki/1996年 "1996年")（[平成](https://ja.wikipedia.org/wiki/平成 "平成")8年）12月に[ユネスコ](https://ja.wikipedia.org/wiki/国際連合教育科学文化機関 "国際連合教育科学文化機関")の[世界文化遺産](https://ja.wikipedia.org/wiki/文化遺産_(世界遺産) "文化遺産 (世界遺産)")に「厳島神社」として登録されている。
+
+## 祭神
+
+祭神は次の3柱。3柱は「[宗像三女神](https://ja.wikipedia.org/wiki/宗像三女神 "宗像三女神")」と総称される。
+
+* [市杵島姫命](https://ja.wikipedia.org/wiki/イチキシマヒメ "イチキシマヒメ")（いちきしまひめのみこと）
+* [田心姫命](https://ja.wikipedia.org/wiki/タキリビメ "タキリビメ")（たごりひめのみこと）
+* [湍津姫命](https://ja.wikipedia.org/wiki/タギツヒメ "タギツヒメ")（たぎつひめのみこと）
+
+市杵島姫命は[神仏習合](https://ja.wikipedia.org/wiki/神仏習合 "神仏習合")時代には仏教の女神の[弁才天](https://ja.wikipedia.org/wiki/弁才天 "弁才天")と習合し、隣接する[大願寺](https://ja.wikipedia.org/wiki/大願寺_(廿日市市) "大願寺 (廿日市市)")と一体化して大伽藍を構成していた。現在、大願寺は「日本三大弁才天」の1つとされている。
+
+## 歴史
+
+### 創建
+
+社伝では、[推古天皇](https://ja.wikipedia.org/wiki/推古天皇 "推古天皇")元年（[593年](https://ja.wikipedia.org/wiki/593年 "593年")）、当地方の有力豪族・[佐伯鞍職](https://ja.wikipedia.org/wiki/佐伯鞍職 "佐伯鞍職")が社殿造営の[神託](https://ja.wikipedia.org/wiki/神託 "神託")を受け、勅許を得て御笠浜に[市杵島姫命](https://ja.wikipedia.org/wiki/イチキシマヒメ "イチキシマヒメ")を祀る社殿を創建したことが始まりとされる。「イツクシマ」という社名も「イチキシマ」が転じたものとする説がある。
+
+厳島神社の鎮座する厳島は「神に斎く（いつく = 仕える）島」という語源のように、古代から島そのものが[神](https://ja.wikipedia.org/wiki/神_(神道) "神 (神道)")として信仰されたと考えられている。厳島中央の[弥山](https://ja.wikipedia.org/wiki/弥山_(広島県) "弥山 (広島県)")（標高535メートル）山頂には巨石が連なっており、山岳信仰の対象であったとされる。
+
+### 概史
+
+文献での初出は、[弘仁](https://ja.wikipedia.org/wiki/弘仁 "弘仁")2年（[811年](https://ja.wikipedia.org/wiki/811年 "811年")）に名神に預かったという記事である。[平安時代](https://ja.wikipedia.org/wiki/平安時代 "平安時代")中期の『[延喜式神名帳](https://ja.wikipedia.org/wiki/延喜式神名帳 "延喜式神名帳")』では「安芸国[佐伯郡](https://ja.wikipedia.org/wiki/佐伯郡 "佐伯郡") 伊都伎嶋神社」と記載されて[名神大社](https://ja.wikipedia.org/wiki/名神大社 "名神大社")に列したほか、[安芸国](https://ja.wikipedia.org/wiki/安芸国 "安芸国")[一宮](https://ja.wikipedia.org/wiki/一宮 "一宮")とされた。その頃には神職は[佐伯氏](https://ja.wikipedia.org/wiki/厳島神主家 "厳島神主家")が掌握した。この社格が昇っていく過程で祭神が整備されていったと考えられており、祭神の市杵島姫命が明記されるのは『一宮記』以降になる。
+
+[![](images/250px-Taira_no_Kiyomori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png)](https://ja.wikipedia.org/wiki/ファイル:Taira_no_Kiyomori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png)
+
+[平清盛](https://ja.wikipedia.org/wiki/平清盛 "平清盛")肖像
+
+[![](images/250px-KATSUSHIKA_Isai_NICHIREN_SHŌNIN_ICHIDAI_ZUE_1858_Goddess_from_ITSUKUSHIMA_Island.jpg)](https://ja.wikipedia.org/wiki/ファイル:KATSUSHIKA_Isai_NICHIREN_SHŌNIN_ICHIDAI_ZUE_1858_Goddess_from_ITSUKUSHIMA_Island.jpg)
+
+神仏習合時代の「厳島女」([七面天女](https://ja.wikipedia.org/wiki/七面天女 "七面天女"))。[葛飾為斎](https://ja.wikipedia.org/wiki/葛飾為斎 "葛飾為斎")・画
+
+[平安時代](https://ja.wikipedia.org/wiki/平安時代 "平安時代")末期、神主・[佐伯景弘](https://ja.wikipedia.org/wiki/佐伯景弘 "佐伯景弘")と当時の[安芸守](https://ja.wikipedia.org/wiki/安芸国#安芸守 "安芸国")・[平清盛](https://ja.wikipedia.org/wiki/平清盛 "平清盛")の結びつきを契機に[平家](https://ja.wikipedia.org/wiki/伊勢平氏 "伊勢平氏")一族から崇敬を受けた。[仁安](https://ja.wikipedia.org/wiki/仁安_(日本) "仁安 (日本)")3年（[1168年](https://ja.wikipedia.org/wiki/1168年 "1168年")）頃、平清盛が社殿を造営し現在と同程度の大規模な社殿が整えられた。平家一門の隆盛とともに厳島神社も栄えて平家の[氏神](https://ja.wikipedia.org/wiki/氏神 "氏神")となった。平家滅亡後も[源氏](https://ja.wikipedia.org/wiki/源氏 "源氏")など権力者の崇敬を受けるが、[建永](https://ja.wikipedia.org/wiki/建永 "建永")2年（[1207年](https://ja.wikipedia.org/wiki/1207年 "1207年")）と[貞応](https://ja.wikipedia.org/wiki/貞応 "貞応")2年（[1223年](https://ja.wikipedia.org/wiki/1223年 "1223年")）の2度の火災で建物の全てを焼失している。現残する社殿は[仁治](https://ja.wikipedia.org/wiki/仁治 "仁治")年間（1240年 - 1243年）以降に造営されたものである。
+
+厳島は神の住む島として禁足地とされ、鎌倉時代頃までは[地御前神社](https://ja.wikipedia.org/wiki/地御前神社 "地御前神社")（外宮）において主な祭祀が行われていた。鎌倉時代末期から[南北朝時代](https://ja.wikipedia.org/wiki/南北朝時代_(日本) "南北朝時代 (日本)")以降、社人・僧侶が禁を破って住むようになったとされる。
+
+[戦国時代](https://ja.wikipedia.org/wiki/戦国時代_(日本) "戦国時代 (日本)")に入り世の中が不安定になると社勢は徐々に衰退する。[毛利元就](https://ja.wikipedia.org/wiki/毛利元就 "毛利元就")が[弘治](https://ja.wikipedia.org/wiki/弘治_(日本) "弘治 (日本)")元年（[1555年](https://ja.wikipedia.org/wiki/1555年 "1555年")）の[厳島の戦い](https://ja.wikipedia.org/wiki/厳島の戦い "厳島の戦い")で勝利を収めて厳島を含む一帯を支配下に置き、厳島神社を崇敬するようになると再び隆盛した。元就は大掛かりな社殿修復を行った。また、[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "豊臣秀吉")も[九州](https://ja.wikipedia.org/wiki/九州 "九州")遠征の途上で厳島神社に参拝し、大経堂（現：[千畳閣](https://ja.wikipedia.org/wiki/千畳閣 "千畳閣")）の造営を行っている。
+
+[江戸時代](https://ja.wikipedia.org/wiki/江戸時代 "江戸時代")には[厳島詣](https://ja.wikipedia.org/wiki/厳島詣 "厳島詣")が民衆に広まり、[門前町](https://ja.wikipedia.org/wiki/門前町 "門前町")や周囲は多くの参拝者で賑わった。
+
+[明治維新](https://ja.wikipedia.org/wiki/明治維新 "明治維新")後、[東京](https://ja.wikipedia.org/wiki/東京 "東京")の明治新政府が派遣した[大参事](https://ja.wikipedia.org/wiki/大参事 "大参事")によって社殿が「仏式」と判断され、[神仏分離](https://ja.wikipedia.org/wiki/神仏分離 "神仏分離")の原則によって社殿の焼却が命じられた（[廃仏毀釈](https://ja.wikipedia.org/wiki/廃仏毀釈 "廃仏毀釈")）。厳島神社の棚守（宮司に相当）が明治新政府に直訴して社殿の焼却は免れたが、[仏教](https://ja.wikipedia.org/wiki/仏教 "仏教")的と考えられた社殿の彩色が全て剥がし落とされて「白木造」に改められ、千木と鰹木が新設されるなどの「復古」が行われた。また大経堂（千畳閣）は内陣の木鼻を切り落とし、仏像などを撤去して「豊国神社」に名を改めるなど社殿の損壊と分離が行われ、[大聖院](https://ja.wikipedia.org/wiki/大聖院_(宮島) "大聖院 (宮島)")（旧[別当寺](https://ja.wikipedia.org/wiki/別当寺 "別当寺")）、[大願寺](https://ja.wikipedia.org/wiki/大願寺_(廿日市市) "大願寺 (廿日市市)")といった寺院が独立した。
+
+[明治](https://ja.wikipedia.org/wiki/明治 "明治")4年（[1871年](https://ja.wikipedia.org/wiki/1871年 "1871年")）[近代社格制度](https://ja.wikipedia.org/wiki/近代社格制度 "近代社格制度")に沿って[国幣中社](https://ja.wikipedia.org/wiki/国幣中社 "国幣中社")に列し、[1911年](https://ja.wikipedia.org/wiki/1911年 "1911年")（明治44年）に官幣中社に昇格した。明治末に社殿が国宝に指定され、壊された部分が明治末の大修理と[大正](https://ja.wikipedia.org/wiki/大正 "大正")の修理で復旧され、千木と鰹木も撤去された（このため、明治時代の厳島神社の写真にのみ千木と鰹木が写っている）。
+
+### 神階
+
+* [弘仁](https://ja.wikipedia.org/wiki/弘仁 "弘仁")2年（[811年](https://ja.wikipedia.org/wiki/811年 "811年")）[7月17日](https://ja.wikipedia.org/wiki/7月17日 "7月17日")、[名神](https://ja.wikipedia.org/wiki/名神大社#名神の称 "名神大社")に預かる （『[日本後紀](https://ja.wikipedia.org/wiki/日本後紀 "日本後紀")』）- 表記は「伊都岐島神」、文献上の初見。
+* [天安](https://ja.wikipedia.org/wiki/天安_(日本) "天安 (日本)")3年（[859年](https://ja.wikipedia.org/wiki/859年 "859年")）[1月27日](https://ja.wikipedia.org/wiki/1月27日 "1月27日")、正五位下から従四位下 （『[日本三代実録](https://ja.wikipedia.org/wiki/日本三代実録 "日本三代実録")』）- 表記は「伊都岐島神」。
+* [貞観](https://ja.wikipedia.org/wiki/貞観_(日本) "貞観 (日本)")9年（[867年](https://ja.wikipedia.org/wiki/867年 "867年")）[10月13日](https://ja.wikipedia.org/wiki/10月13日 "10月13日")、従四位上 （『日本三代実録』）- 表記は「伊都岐島神」。
+
+### 神職
+
+[![](images/250px-Emblem_of_Itsukushima_Shrine.svg.png)](https://ja.wikipedia.org/wiki/ファイル:Emblem_of_Itsukushima_Shrine.svg)
+
+神紋「三つ盛り二重亀甲に剣花菱」
+
+[厳島神主家](https://ja.wikipedia.org/wiki/厳島神主家 "厳島神主家")参照。[飛鳥時代](https://ja.wikipedia.org/wiki/飛鳥時代 "飛鳥時代")に厳島神社を創建したとされる[佐伯鞍職](https://ja.wikipedia.org/wiki/佐伯鞍職 "佐伯鞍職")に始まり、文献に記載のない期間を経て平安時代以降は代々[佐伯氏](https://ja.wikipedia.org/wiki/佐伯直#讃岐、伊予、安芸、阿波に封じられた佐伯部または佐伯直を祖とする佐伯氏 "佐伯直")が世襲したことが分かっている。平安時代末期には[佐伯景弘](https://ja.wikipedia.org/wiki/佐伯景弘 "佐伯景弘")が[平家](https://ja.wikipedia.org/wiki/平家 "平家")一門と結んで繁栄を見せた。
+
+[鎌倉時代](https://ja.wikipedia.org/wiki/鎌倉時代 "鎌倉時代")に入り[承久の乱](https://ja.wikipedia.org/wiki/承久の乱 "承久の乱")では[後鳥羽上皇](https://ja.wikipedia.org/wiki/後鳥羽天皇 "後鳥羽天皇")側として活動したため、佐伯氏は神主家当主の座を降り[藤原親実](https://ja.wikipedia.org/wiki/藤原親実?action=edit&redlink=1 "藤原親実 (存在しないページ)")が新たな厳島神主家となった。その後の佐伯氏は厳島神社の神官として活動する。[瑞渓周鳳](https://ja.wikipedia.org/wiki/瑞渓周鳳 "瑞渓周鳳")の『臥雲日件録』[1465年](https://ja.wikipedia.org/wiki/1465年 "1465年")（[寛正](https://ja.wikipedia.org/wiki/寛正 "寛正")6年）6月18日条に「**日本所謂三大宮司**、盖厳島・熱田・富士之三所也」とあり、厳島神社の大宮司は[熱田大宮司](https://ja.wikipedia.org/wiki/熱田神宮 "熱田神宮")・[富士大宮司](https://ja.wikipedia.org/wiki/富士氏 "富士氏")と共に日本三大宮司に数えられている。
+
+以後、藤原氏が[戦国時代](https://ja.wikipedia.org/wiki/戦国時代_(日本) "戦国時代 (日本)")に滅亡するまで神主家を務めた。藤原氏滅亡後は佐伯氏が復権し現在に至っている。
+
+### 被害
+
+海上に建てられている社殿は[台風](https://ja.wikipedia.org/wiki/台風 "台風")・[高潮](https://ja.wikipedia.org/wiki/高潮 "高潮")の影響・被害を受ける。床の木材の隙間を空けて敷いているが、大型の台風が直撃したら倒壊することがある。自然と修復を前提に建てられた社殿となる。
+
+* [1991年](https://ja.wikipedia.org/wiki/1991年 "1991年")（[平成](https://ja.wikipedia.org/wiki/平成 "平成")3年）、[台風19号](https://ja.wikipedia.org/wiki/平成3年台風第19号 "平成3年台風第19号") - 重要文化財の「能舞台」が倒壊。桧皮葺の屋根も大きな被害。
+* [1999年](https://ja.wikipedia.org/wiki/1999年 "1999年")（平成11年）、[台風18号](https://ja.wikipedia.org/wiki/平成11年台風第18号 "平成11年台風第18号") - 国宝の「神社」および「社殿」が大きな被害。
+* [2004年](https://ja.wikipedia.org/wiki/2004年 "2004年")（平成16年）、[台風18号](https://ja.wikipedia.org/wiki/平成16年台風第18号 "平成16年台風第18号") - 国宝附指定の「左楽房」が倒壊。桧皮葺の屋根も被害。
+* [2012年](https://ja.wikipedia.org/wiki/2012年 "2012年")（平成24年）4月3日 - 暴風で大鳥居の檜皮屋を覆う銅板に被害。
+
+## 社殿
+
+[![](images/500px-Itsukushima_(pano).jpg)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima_(pano).jpg)
+
+境内 遠景
+
+社殿は[寝殿造](https://ja.wikipedia.org/wiki/寝殿造 "寝殿造")を神社建築に応用したもの。
+
+[![](images/250px-Itsukushima_Hiroshima.JPG)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima_Hiroshima.JPG)
+
+大鳥居と社殿（海側から）
+
+[![](images/250px-20100723_Miyajima_Itsukushima_5122.jpg)](https://ja.wikipedia.org/wiki/ファイル:20100723_Miyajima_Itsukushima_5122.jpg)
+
+左右門客神社（左）、左楽房（右）、背景は五重塔
+
+[![](images/250px-Goju-no-to_Pagoda,_Miyajima.jpg)](https://ja.wikipedia.org/wiki/ファイル:Goju-no-to_Pagoda,_Miyajima.jpg)
+
+五重塔
+
+厳島神社の主要な社殿は、厳島の北部、大野瀬戸に面した有浦（ありのうら）と呼ばれる湾の奥に建つ。湾のもっとも奥まったところに宗像三女神を祀る**本社**が北（厳密には北西）を正面として建つ。本社社殿は奥の**本殿**と手前の**拝殿**の間を**幣殿**でつないで全体を1棟とする形式であり、拝殿の手前には**祓殿**（はらいでん）が建つ。祓殿のさらに手前（海側）には「**高舞台**」と呼ばれる高欄付の舞台があり、舞楽の奉納などに使用される。その周囲の屋根がない板敷の部分を「**平舞台**」という。平舞台に接して、左右の**門客神社**（かどまろうどじんじゃ）、左右の**楽房**などの小建物が建つ。平舞台のもっとも海側は桟橋状に細く突き出ており、この部分を「火焼先」（ひたさき）と称する。「火焼先」の延長線上には海中に**大鳥居**が建つ。祓殿の側面からは左右に屈折する**廻廊**（東廻廊、西廻廊）が伸び、厳島神社特有の景観を形成している。東廻廊の途中、湾の東側には、**摂社客神社**（まろうどじんじゃ）が西を正面として建つ。客神社も本社と同様に本殿・幣殿・拝殿・祓殿から成るが、社殿の規模は本社より小さい。以上の建物の大部分は海域に建っており、満潮時には建物が海上に浮かんでいるように見える。このような立地にもかかわらず、各建物には何か特殊な建築技法が使われているわけではなく、浅い海底に地上の建物と同様に礎石を据え、杭（束）を立て、その上に板床を張っている。木製の杭は満潮時には海水に浸かるため腐食をまぬがれず、定期的に点検を行って、腐食が判明した場合は根継ぎを行っている（平舞台のように、石造の杭を用いている部分もある）。本社本殿・幣殿・拝殿（以上1棟）、本社祓殿（はらいでん）、摂社客神社本殿・幣殿・拝殿（以上1棟）、摂社客神社祓殿、東廻廊、西廻廊の計6棟が1952年に国宝に指定されており、高舞台、平舞台、左右門客神社、左右楽房は国宝の「附」（つけたり）指定扱いとなっている。記録によると、かつての厳島神社には夏堂（本地堂）、粥座屋、朝座侍屋があったことが分かっている。また、付加された建築としては天神社、能舞台などがある。
+
+社殿は波の穏やかな瀬戸内海の島の北岸に位置するとはいえ、海域に建っているため、台風などによって被害を受けることもしばしばである。20世紀以降では、1945年9月17日の山津波で各建物の床下に土砂が流れ込む被害を受けた。1950年9月13日の[キジア台風](https://ja.wikipedia.org/wiki/キジア台風 "キジア台風")と1951年10月14日の[ルース台風](https://ja.wikipedia.org/wiki/ルース台風 "ルース台風")でも高潮の被害を受けている。1991年9月27日の台風19号による被害は甚大で、左楽房の部材が流出し、それをロープで繋ぎ止めている間に能舞台が倒壊した。2004年9月の台風でも左楽房が倒壊するなどの被害があった。こうした高潮などの被害のため、外海寄りに位置する左右楽房、平舞台などはたびたび修理を受けており、古い部材は残っていない。一方で、本殿・幣殿・拝殿などの主要建物は、1991年の台風で檜皮葺屋根がめくれるなどの被害はあったが、建物の根幹部はさほど甚大な被害を受けていない。
+
+以上のように、厳島神社の社殿は台風に伴う土石流、高潮などの被害をたびたび受けている。しかしながら、毎回被害を受けるのは能舞台、門客神社、楽房などの一部の建物に限られている。これらの建物は平清盛の時代には存在せず、後に追加されたものであり、いずれも簡易な構造の附属社殿である。本殿、拝殿などの主要建物は、1991年の大型台風の際にも被害は僅少であった。建築史家の三浦正幸は、厳島神社の本殿内陣は清盛の時代以来850年間、一度も水没したことがないとしたうえで、当神社の主要社殿は200年に一度の高潮にも水没しない位置を選んで建てられているとし、台風の被害を受けるのは清盛時代には存在しなかった社殿（門客神社、楽房など）のみだとしている。また、当神社の社殿が海域に建っているにもかかわらず、柱の不同沈下を起こさないのは、社殿の建つ位置がもともと陸地であったところを掘削して海としたためであり、社殿は大きな岩盤の上に建っているのではないかとする。
+
+厳島神社の社殿が現在に近い形に整備されたのは、平安時代末期であり、安芸国守に任じられた[平清盛](https://ja.wikipedia.org/wiki/平清盛 "平清盛")の援助を受け、当時の神主[佐伯景弘](https://ja.wikipedia.org/wiki/佐伯景弘 "佐伯景弘")によって社殿が造営された。当時の社殿は承元元年（1207年）と貞応2年（1223年）に火災に遭い、現存する社殿の主要部は貞応の火災後、仁治2年（1241年）に再建されたものである。本社の幣殿・拝殿・祓殿、客神社の本殿・幣殿・拝殿・祓殿はこの時の建物であるが、本社本殿は室町時代に建て替えられており、棟札から元亀2年（1571年）の再建と判明する。この時の再建は火災に伴うものではなく、永禄12年（1569年）、[毛利元就](https://ja.wikipedia.org/wiki/毛利元就 "毛利元就")と対立した備後の豪族和智兄弟が本殿に立て籠もり殺害されるという事件があり、社殿が血でけがれたとして建て替えられたものである。これらの社殿は中世の再建ではあるが、その規模や様式は平安時代末期のものを引き継いでいるとみなされている。摂社客神社の社殿は永享2年から5年（1430 - 1433年）に大規模な修理を受けている。
+
+### 本社
+
+[![](images/250px-Itsukushima_Honden_Haiden.jpg)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima_Honden_Haiden.jpg)
+
+本社本殿・拝殿（西面）
+
+[![](images/250px-ItsukushimaBuilding7430.jpg)](https://ja.wikipedia.org/wiki/ファイル:ItsukushimaBuilding7430.jpg)
+
+本社拝殿（正面東側）
+
+[![](images/250px-Inside_of_Itsukushima_main_shrine.jpg)](https://ja.wikipedia.org/wiki/ファイル:Inside_of_Itsukushima_main_shrine.jpg)
+
+本社拝殿内部
+
+[![](images/250px-20100723_Miyajima_Itsukushima_5189.jpg)](https://ja.wikipedia.org/wiki/ファイル:20100723_Miyajima_Itsukushima_5189.jpg)
+
+右楽房（左）、右門客神社（右）
+
+本社、客神社、廻廊など、海域部分に建つ建物の屋根はいずれも檜皮葺である。本社の社殿は、奥から手前に本殿・幣殿・拝殿・祓殿の順に並ぶ。これらの社殿の平面や配置をみると、完全な左右対称形ではなく、幣殿と祓殿は本殿から見てやや西寄り（正面から見て右寄り）の位置に建っている。また、本殿と拝殿は柱の配置が左右対称になっていない。一般に神社建築では各柱間を等間隔にするか、正面中央の柱間を広く取るのが普通だが、厳島神社本社の本殿・拝殿では、もっとも広い柱間は西寄りの位置にあり、社殿全体の中軸線が西側に寄っている（その理由は後述）。
+
+**本社本殿**の屋根は、切妻造の正面・背面の両方を長く伸ばし、その伸ばした部分を庇とした形で、このような屋根形式を「両流造」という。本殿の柱間は桁行（間口）が正面8間・背面9間、梁間（奥行）が4間である。構造的には桁行9間、梁間2間の身舎の前後2方向に庇を付けた形になる。桁行背面の柱間が9間であるのに対し、桁行正面の柱間が1間少ない8間となっているのは、正面側では柱を1本省いているためである。すなわち、背面では柱が規則的に10本立つ（柱間は9間）のに対し、正面では向かって右から5本目にあたる柱を省いて、その部分の柱間を他より広く取っており、ここが社殿の中軸部になる。本殿の内陣には6基の宝殿を安置する。6基のうち3基には宗像三女神を祀り、残りの3基には相殿神と呼ばれる神々を併祀する。このうち、主神の市杵島姫命の宝殿を安置する部分のみ柱間が他よりも広くなっており、これが前述の中軸部にあたる。以上のような理由で、本社では社殿の中軸が西方（向かって右）にずれている。本殿の組物は平三斗（ひらみつと）で、中備（なかぞなえ）は中軸部の柱間が蟇股（かえるまた）、その左右の柱間は間斗束（けんとづか）とする。蟇股は明治14年（1881年）の修理時の新造だが、摂社客神社本殿の蟇股と似ていることから、修理前の古い形態をとどめているものと思われる。本殿正面の柱間装置は、中央6間を引違いの菱格子戸、両端の間を[連子窓](https://ja.wikipedia.org/wiki/連子窓 "連子窓")とする。
+
+**幣殿**は本殿・拝殿間をつなぐ廊に屋根を付けた形になり、方1間、両下造（りょうさげづくり）とする。両下造とは、切妻造と同じ屋根形態だが、両端が別の建物に接するため妻面がないものを指す。
+
+**拝殿**は入母屋造、桁行10間、梁間3間で、組物は舟肘木を用いる。神社の本殿・拝殿の正面柱間は3間、5間などの奇数となるのが普通で、偶数の10間とするのは異例である。拝殿も本殿と同様に左右非対称で、右から5間目の柱間のみが特に広く、この部分に幣殿が取り付く。拝殿内部は、柱の省略がなく、1間ごとに規則的に柱が立つ。梁間3間のうち、中央の1間と奥（南側）の1間とはそれぞれ化粧屋根裏とする。化粧屋根裏とは、天井を張らず、桁、垂木などの構造材をそのまま見せるもので、建物内部から見上げると、切妻造の建物2つが前後に接して建っているように見える。この2つの棟を覆って建物全体の棟があることから、全体を「三棟造」といい、この拝殿のことを別名「三棟」ともいった。
+
+**祓殿**は拝殿の手前に棟を直交させて建つ入母屋造、妻入の建物で、桁行6間、梁間3間である。全面吹き放し（柱間に壁や建具を入れない）の開放的な建物である。
+
+本殿裏手の陸地部は後園（うしろその）と呼ぶ禁足地となっている。禁足地には玉垣をめぐらし、中央に**不明門**と呼ぶ本瓦葺の四脚門が建つ。不明門は祭神が弥山から社殿へ降りる際に通る門とされ、人が通行することはない。
+
+**平舞台**は、浅い海底に立てた石柱の上に大引と根太を渡した軸組の上に床板を張ったものである。石柱は赤間石製で、毛利元就の寄進とされる。床板は、高潮時の水圧を逃がせるように、隙間をあけて張られているが、それでも台風などでたびたび破損している。平舞台の中央付近を一段高くして高欄をめぐらし、この部分を**高舞台**と称する。平舞台の前方は外側に左右の**楽房**、内側に左右の**門客神社**がある。楽房は切妻造の簡素な建物、門客神社は切妻造の覆屋内に流造の社殿がある。これらの舞台や建物は台風などの被害をもっとも受けやすい位置にあって、たびたび破損と修理を繰り返しており、古い部材は残っていない。
+
+### 客神社
+
+[![](images/250px-厳島神社と大鳥居.JPG)](https://ja.wikipedia.org/wiki/ファイル:厳島神社と大鳥居.JPG)
+
+大鳥居を望む、右は客神社祓殿、左奥は右楽房
+
+摂社客神社は、本社と同様に本殿・幣殿・拝殿・祓殿からなるが、規模は本社より小さい。その他、細部において本社とは異なる点がある。
+
+**客神社本殿**は、両流造、桁行5間、梁間4間。**拝殿**は入母屋造、桁行9間、梁間3間で、これらの間を方1間、両下造の**幣殿**で連結する。**祓殿**は入母屋造、妻入で、桁行4間、梁間3間である。本社では廻廊は祓殿の側面に取り付くが、客神社では廻廊は祓殿と拝殿の間を通っている。また、客神社では本社の平舞台にあたる板敷の施設がなく、祓殿は直接海に面している。客神社の本殿と拝殿は、本社の本殿・拝殿と異なって桁行柱間が奇数であり、中央の柱間を広く取り、左右対称形の通常の平面形式である。本殿の正面柱間の中備は、本社本殿と異なり、5間とも蟇股とする。拝殿は、本社拝殿と異なって、内部の身舎部分の柱を一部省略して内部空間を広く取っており、本社拝殿のように前後に2つの化粧屋根裏を作る形ではなく、梁間2間分を1つの化粧屋根裏としている。
+
+### 廻廊
+
+**東西廻廊**は一般の神社の廻廊のように敷地を四角く区切るものではなく、海上の各建物と陸地とを結ぶ渡り廊下の役を果たしている。西廻廊は折れ曲がり62間で、西端は地上部に発し、海上に建つ能舞台を囲むように4回直角に折れた後、本社祓殿西面に接続する。東廻廊は折れ曲がり45間で、東北端は地上部に発し、客神社の祓殿と拝殿の間を通り、3回直角に折れた後、本社祓殿東面に接続する。両廻廊とも組物は舟肘木とし、平舞台と同様、床板は高潮時の水圧を逃がすため、隙間を空けて張っている。内部架構は梁間方向に直材の虹梁を渡し、その上に又首（さす）を組み、又首上の舟肘木で桁を支える。廻廊には棟札が多数残り、室町時代末期から桃山時代にかけて順次整備されたものであることがわかる。廻廊の現在の床板は明治末期頃に張り替えたもので、磨滅防止のため、本来の床板の上に保護板が張られている。
+
+* [![東廻廊（東から見る）](images/120px-Miyajima12.JPG)](https://ja.wikipedia.org/wiki/ファイル:Miyajima12.JPG "東廻廊（東から見る）")
+
+  東廻廊（東から見る）
+* [![東廻廊（客神社付近、北から見る）](images/120px-ItsukushimaInterior7408.jpg)](https://ja.wikipedia.org/wiki/ファイル:ItsukushimaInterior7408.jpg "東廻廊（客神社付近、北から見る）")
+
+  東廻廊（客神社付近、北から見る）
+* [![西廻廊（西から見る、背景は五重塔と豊国神社）](images/120px-Marodo_Shrine_Itsukushima.jpg)](https://ja.wikipedia.org/wiki/ファイル:Marodo_Shrine_Itsukushima.jpg "西廻廊（西から見る、背景は五重塔と豊国神社）")
+
+  西廻廊（西から見る、背景は五重塔と豊国神社）
+
+### 摂社、末社、附属建物
+
+[![](images/250px-千畳閣.JPG)](https://ja.wikipedia.org/wiki/ファイル:千畳閣.JPG)
+
+豊国神社本殿
+
+[![](images/250px-MiyajimaSenjokaku7477.jpg)](https://ja.wikipedia.org/wiki/ファイル:MiyajimaSenjokaku7477.jpg)
+
+豊国神社本殿（内部）
+
+[![](images/250px-20100723_Miyajima_4816.jpg)](https://ja.wikipedia.org/wiki/ファイル:20100723_Miyajima_4816.jpg)
+
+摂社大国神社本殿と長橋（右は本社本殿）
+
+以上の国宝建築物のほか、摂社、末社、附属建物など14棟（厳密には8棟と橋3基、塔2基、鳥居1基）が重要文化財に指定されている。本社周辺の海上に建つ建物としては、**摂社大国神社本殿**、**摂社天神社本殿**、**朝座屋**（あさざや）、**能舞台**、**揚水橋**（あげみずばし）、**長橋**、**反橋**があり、湾の入口付近には**大鳥居**がある。厳島神社の主要な建物は海域に建つが、地上部分にもいくつかの建物がある。本社背後の社務所近くには[校倉造り](https://ja.wikipedia.org/wiki/校倉造 "校倉造")の**宝蔵**が建つ。湾の東岸の塔岡（とうのおか）には**末社豊国神社本殿**と**五重塔**があり、丘の麓には**末社荒胡子神社本殿**がある。豊国神社本殿は「[千畳閣](https://ja.wikipedia.org/wiki/千畳閣 "千畳閣")」の通称がある本瓦葺きの大建築で、もとは「大経堂」と称された。湾の西岸には宝物館の裏手の高台に**多宝塔**があり、やや離れた大元浦には**[摂社大元神社本殿](https://ja.wikipedia.org/wiki/大元神社_(廿日市市)?action=edit&redlink=1 "大元神社 (廿日市市) (存在しないページ)")**がある。五重塔、多宝塔、豊国神社本殿などの仏教建築が今も残り、[神仏習合](https://ja.wikipedia.org/wiki/神仏習合 "神仏習合")の名残をとどめているのが厳島神社の特色である。
+
+* 摂社大国神社本殿 - 本社本殿の西に位置する。切妻造、檜皮葺。桁行3間、梁間4間。桁行3間のうち東の1間は幅が広く、南側に位置する長橋に通じる通路としている。室町時代の建立で、本社本殿と同じく元亀2年（1571年）、[毛利元就](https://ja.wikipedia.org/wiki/毛利元就 "毛利元就")の造営と考えられている。
+* 摂社天神社本殿 - 大国神社本殿の西南に位置する。入母屋造、檜皮葺。桁行3間、梁間3間。弘治2年（1556年）の建立。他の社殿群が朱塗であるのに対し、本建物は素木造である。
+* 朝座屋 - 本社本殿の東方、東廻廊に接して建つ。片側入母屋造、片側切妻造、檜皮葺。桁行8間、梁間4間。桃山時代の再建。
+* 能舞台 - 本社拝殿の西方の海中に建ち、北側を除く三方を西廻廊に囲まれている。切妻造、檜皮葺。桁行・梁間とも1間。橋掛と能楽屋を伴う。延宝8年（1680年）、広島藩主[浅野綱長](https://ja.wikipedia.org/wiki/浅野綱長 "浅野綱長")の寄進により建立。1991年の台風で倒壊し、柱4本のうち3本は取り換え材である。
+* 長橋 - 本社本殿の南西方、大国神社本殿と南の陸地部を結ぶ橋。桃山時代の建立。橋脚は石造だが、橋板、高欄などの木部はたび重なる修理により新材に替わっている。
+* 反橋 - 長橋の西方、西廻廊と南の陸地部を結ぶ弧形の橋。擬宝珠に弘治3年（1557年）の銘がある。擬宝珠は古いが、橋板、高欄などの木部はたび重なる修理により新材に替わっている
+* 揚水橋 - 本社本殿の東方、東廻廊と南の陸地部を結ぶ短い橋。桃山時代の建立。
+* 末社豊国神社本殿 - 明治以降は豊国神社となっているが、もとは大経堂で、[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "豊臣秀吉")が天正15年（1587年）に戦没者の供養のために発願した建物である。秀吉が[毛利輝元](https://ja.wikipedia.org/wiki/毛利輝元 "毛利輝元")に命じて建立させ、実際の建築の指図は[安国寺恵瓊](https://ja.wikipedia.org/wiki/安国寺恵瓊 "安国寺恵瓊")によって行われた。この建物の鬼瓦には天正17年（1589年）の銘を有するものがあり、この頃までには建物の形ができていたと思われるが、その頃、秀吉が朝鮮への出兵を決意したことにより建築工事は中断し、細部の造作は未完成のまま今日に至っている。入母屋造、本瓦葺。柱間は桁行13間（背面は15間）、梁間8間、実長は桁行39.5メートル、梁間21.1メートルの規模を有し、外周には軒の出を支えるため軒支柱をめぐらせている。この建物は規模の大きさから「千畳敷」と通称され畳857枚分に相当する広さがあるが、床は畳敷ではなく板張である。内部は2間ごとに独立柱が立ち、中央奥に須弥壇を設ける。
+* 宝蔵 - 校倉造。屋根は寄棟造、檜皮葺。室町時代の建立。
+* 五重塔 - 応永14年（1407年）の建立。檜皮葺。日本の他の仏塔と同様、建築様式は和様を基調とするが、四隅の軒の強い反り、柱の粽（ちまき）、尾垂木の先端を三角形状に削る点など、細部に禅宗様の要素がみられる。
+* 末社荒胡子神社本殿 - 一間社流造、檜皮葺の小社殿。嘉吉元年（1441年）の建立。
+* 多宝塔 - 檜皮葺。大永3年（1523年）の建立。
+* 摂社大元神社本殿 - 三間社流造、流板葺。大永3年（1523年）の建立。前方の庇部分を、正面は菱格子戸、側面は板壁で囲い、前室として取り込む形式が珍しい。
+
+* [![天神社本殿](images/120px-20100723_Miyajima_Itsukushima_4815.jpg)](https://ja.wikipedia.org/wiki/ファイル:20100723_Miyajima_Itsukushima_4815.jpg "天神社本殿")
+
+  天神社本殿
+* [![朝座屋](images/120px-Itsukushima_main_shrine.jpg)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima_main_shrine.jpg "朝座屋")
+
+  朝座屋
+* [![能舞台](images/120px-Stage_of_Itsukushima_Shrine.jpg)](https://ja.wikipedia.org/wiki/ファイル:Stage_of_Itsukushima_Shrine.jpg "能舞台")
+
+  能舞台
+* [![反橋](images/120px-Bridge_in_Miyajima.jpg)](https://ja.wikipedia.org/wiki/ファイル:Bridge_in_Miyajima.jpg "反橋")
+
+  反橋
+* [![五重塔](images/120px-Itsukushima_pagoda_2011.JPG)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima_pagoda_2011.JPG "五重塔")
+
+  五重塔
+* [![多宝塔](images/120px-Tahoto_Pagoda,_Miyajim_-_DSC02449.JPG)](https://ja.wikipedia.org/wiki/ファイル:Tahoto_Pagoda,_Miyajim_-_DSC02449.JPG "多宝塔")
+
+  多宝塔
+
+### 大鳥居
+
+[![](images/250px-ItsukushimaTorii7396.jpg)](https://ja.wikipedia.org/wiki/ファイル:ItsukushimaTorii7396.jpg)
+
+大鳥居
+
+→「[厳島神社大鳥居](https://ja.wikipedia.org/wiki/厳島神社大鳥居 "厳島神社大鳥居")」を参照
+
+境内の沖合約200メートルの地に立つ（[北緯34度17分50.29秒 東経132度19分5.24秒﻿ / ﻿北緯34.2973028度 東経132.3181222度﻿ / 34.2973028; 132.3181222﻿ (大鳥居)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_50.29_N_132_19_5.24_E_region:JP-34&title=%E5%A4%A7%E9%B3%A5%E5%B1%85)）。
+
+現鳥居は1875年（明治8年）の再建である。棟の高さ16.6メートル、柱間10.9メートルの、大型の木造両部鳥居（各主柱に2本ずつの控柱がつく）である。主柱はクスノキの自然木で、控柱はスギ材である。主柱は1本が宮崎県岡富村（現[西都市](https://ja.wikipedia.org/wiki/西都市 "西都市")）、もう1本が香川県和田浜（現[観音寺市](https://ja.wikipedia.org/wiki/観音寺市 "観音寺市")）で切り出された。両柱とも、1950年の修理時に根継ぎを行っており、根継ぎ材は東柱が福岡県[久留米市](https://ja.wikipedia.org/wiki/久留米市 "久留米市")、西柱が佐賀県佐賀郡川上村大字池ノ上字池ノ上（現在[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "佐賀市")大和町池ノ上）で切り出されたものである。各主柱の立つ基礎は、千本杭といって、松材の丸太の杭を密に立てて打ち込んだもので、現在はその上をコンクリートと花崗岩で固めてある。鳥居はこの土台の上に約60トンの自重で立っている。島木と笠木は箱状の構造で、これらの内部には拳大の石が約7トン詰め込まれており、その重みによって大鳥居は自立し、風や波に耐えるようになっている。
+
+奈良の[春日大社](https://ja.wikipedia.org/wiki/春日大社 "春日大社")・敦賀の[気比神宮](https://ja.wikipedia.org/wiki/気比神宮 "気比神宮")の大鳥居とともに「日本三大鳥居」に数えられる。現在のものは平清盛の造営時から8代目と言われる。扁額は[有栖川宮熾仁親王](https://ja.wikipedia.org/wiki/有栖川宮熾仁親王 "有栖川宮熾仁親王")の染筆で、沖側は「嚴嶋神社」、神社側は「伊都岐島神社」と記されている。
+
+[![](images/250px-Coins_on_grand_torii_of_Itsukushima_Shrine.jpg)](https://ja.wikipedia.org/wiki/ファイル:Coins_on_grand_torii_of_Itsukushima_Shrine.jpg)
+
+亀裂の部分にたくさんの硬貨が差し込まれている。
+
+近年、大鳥居にできた亀裂の部分に、一部の観光客によって[硬貨](https://ja.wikipedia.org/wiki/硬貨 "硬貨")が差し込まれるケースが多発している。神社側は「鳥居の柱の老朽化が進む虞があり、止めてほしい」と呼び掛けている。
+
+### 一遍上人絵伝に描かれる厳島神社
+
+『一遍上人絵伝』に描かれる厳島神社の風景は弘安10年（1287年）の臨時祭の時のもので、現存社殿が整備された仁治2年（1241年）より後の情景ということになるが、絵巻に描かれている社殿の様子は現存する社殿とは大きく異なっている。絵巻では拝殿の前に祓殿がなく、拝殿左右から発した廻廊が拝殿前方を方形に区画し、区画された中に高舞台が浮かぶ。この絵巻に描かれた建物構成が、まったくの「絵空事」であるのか、仁治の再建以前にはこのような方形区画の廻廊を設けていた時期があったのかは定かでない。
+
+[![](images/500px-Ippen_shonin_eden_X_-_Itsukushima.jpg)](https://ja.wikipedia.org/wiki/ファイル:Ippen_shonin_eden_X_-_Itsukushima.jpg)
+
+『[一遍聖絵](https://ja.wikipedia.org/wiki/一遍聖絵 "一遍聖絵")』に描かれた厳島神社境内
+
+## 摂末社
+
+### 外宮
+
+* [地御前神社](https://ja.wikipedia.org/wiki/地御前神社 "地御前神社") （じごぜんじんじゃ）
+  + 鎮座地：地御前（[北緯34度20分10.46秒 東経132度19分8.45秒﻿ / ﻿北緯34.3362389度 東経132.3190139度﻿ / 34.3362389; 132.3190139﻿ (境外摂社：地御前神社（外宮）)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_20_10.46_N_132_19_8.45_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%91%82%E7%A4%BE%EF%BC%9A%E5%9C%B0%E5%BE%A1%E5%89%8D%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%A4%96%E5%AE%AE%EF%BC%89)）
+  + 祭神：市杵島姫命、田心姫命、湍津姫命 - 本社に同じ。
+  + 創建：[推古天皇](https://ja.wikipedia.org/wiki/推古天皇 "推古天皇")元年（[593年](https://ja.wikipedia.org/wiki/593年 "593年")） - 本社に同じ。
+  + 境内社：御客人宮（祭神：正哉吾勝々速日天忍穂耳命、天穂日命、天津彦根命、活津彦根命、熊野樟日命） - 本社の客神社に同じ。
+
+厳島は古くは神の住む島として禁足地であったことから、対岸の地に創建され遥拝所となされた。のちに平氏が隆盛するとともに外宮として発展した。
+
+現在は[例祭](https://ja.wikipedia.org/wiki/例祭 "例祭")である[旧暦6月17日](https://ja.wikipedia.org/wiki/6月17日_(旧暦) "6月17日 (旧暦)")の[管絃祭](https://ja.wikipedia.org/wiki/管絃祭 "管絃祭")において管絃船（御座船）が本社から地御前神社へ渡御する。
+
+### 奥宮
+
+[![](images/250px-Miyama_Jinjya(Hiroshima).JPG)](https://ja.wikipedia.org/wiki/ファイル:Miyama_Jinjya(Hiroshima).JPG)
+
+[御山神社](https://ja.wikipedia.org/wiki/御山神社 "御山神社")（奥宮）
+
+[![](images/250px-弥山_(広島県)_対岸から.JPG)](https://ja.wikipedia.org/wiki/ファイル:弥山_(広島県)_対岸から.JPG)
+
+[神体](https://ja.wikipedia.org/wiki/神体 "神体")とする[弥山](https://ja.wikipedia.org/wiki/弥山_(広島県) "弥山 (広島県)")（中央右の峰）
+
+* [御山神社](https://ja.wikipedia.org/wiki/御山神社 "御山神社") （みやまじんじゃ）
+  + 鎮座地：弥山山頂（[北緯34度16分39.62秒 東経132度19分6.71秒﻿ / ﻿北緯34.2776722度 東経132.3185306度﻿ / 34.2776722; 132.3185306﻿ (奥宮：御山神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_16_39.62_N_132_19_6.71_E_region:JP-34&title=%E5%A5%A5%E5%AE%AE%EF%BC%9A%E5%BE%A1%E5%B1%B1%E7%A5%9E%E7%A4%BE)） - 弥山本堂から山頂へのコースを外れて徒歩5分。
+  + 祭神：市杵島姫命、田心姫命、湍津姫命 - 本社に同じ。3つの社殿に1柱ずつ祀られている。
+
+### 摂社
+
+#### 境内摂社
+
+* 客神社 （まろうどじんじゃ）
+  + 祭神：[天忍穂耳命](https://ja.wikipedia.org/wiki/アメノオシホミミ "アメノオシホミミ")、[天穂日命](https://ja.wikipedia.org/wiki/アメノホヒ "アメノホヒ")、[活津彦根命](https://ja.wikipedia.org/wiki/イクツヒコネ "イクツヒコネ")、[天津彦根命](https://ja.wikipedia.org/wiki/アマツヒコネ "アマツヒコネ")、[熊野櫲樟日命](https://ja.wikipedia.org/wiki/クマノクスビ "クマノクスビ")
+  + 本社同様、本殿・幣殿・拝殿・祓殿からなる。厳島神社の主要祭典はこの客神社から始まる。
+* 左門客神社（ひだりかどまろうどじんじゃ）
+  + 祭神：豊磐窓神
+* 右門客神社
+  + 祭神：櫛磐窓神
+* 大国神社
+  + 祭神：[大国主命](https://ja.wikipedia.org/wiki/大国主 "大国主")
+* 天神社
+  + 祭神：[菅原道真](https://ja.wikipedia.org/wiki/菅原道真 "菅原道真")公
+  + 他の社殿と異なり素木造である。
+
+* [![客神社祓殿（国宝）](images/120px-Itsukushima_floating_shrine.jpg)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima_floating_shrine.jpg "客神社祓殿（国宝）")
+
+  客神社祓殿（国宝）
+* [![左門客神社（国宝：附指定）](images/120px-左門客神社_(厳島神社境内社).JPG)](https://ja.wikipedia.org/wiki/ファイル:左門客神社_(厳島神社境内社).JPG "左門客神社（国宝：附指定）")
+
+  左門客神社（国宝：附指定）
+* [![右門客神社（国宝：附指定）](images/120px-右門客神社_(厳島神社境内社).JPG)](https://ja.wikipedia.org/wiki/ファイル:右門客神社_(厳島神社境内社).JPG "右門客神社（国宝：附指定）")
+
+  右門客神社（国宝：附指定）
+* [![大国神社（重要文化財）](images/120px-大国神社_(厳島神社境内社).JPG)](https://ja.wikipedia.org/wiki/ファイル:大国神社_(厳島神社境内社).JPG "大国神社（重要文化財）")
+
+  大国神社（重要文化財）
+* [![天神社（重要文化財）](images/120px-天神社_(厳島神社境内社).JPG)](https://ja.wikipedia.org/wiki/ファイル:天神社_(厳島神社境内社).JPG "天神社（重要文化財）")
+
+  天神社（重要文化財）
+
+#### 境外摂社
+
+[![](images/250px-Omoto_Shrine_(Miyajima)_-_DSC02291.JPG)](https://ja.wikipedia.org/wiki/ファイル:Omoto_Shrine_(Miyajima)_-_DSC02291.JPG)
+
+大元神社（奥の本殿は重要文化財）
+
+* [大元神社](https://ja.wikipedia.org/wiki/大元神社_(廿日市市)?action=edit&redlink=1 "大元神社 (廿日市市) (存在しないページ)") （おおもとじんじゃ）
+  + 鎮座地：西大西町（[北緯34度17分40.84秒 東経132度18分50.32秒﻿ / ﻿北緯34.2946778度 東経132.3139778度﻿ / 34.2946778; 132.3139778﻿ (境外摂社：大元神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_40.84_N_132_18_50.32_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%91%82%E7%A4%BE%EF%BC%9A%E5%A4%A7%E5%85%83%E7%A5%9E%E7%A4%BE)）
+  + 祭神：[国常立尊](https://ja.wikipedia.org/wiki/国之常立神 "国之常立神")、[大山祇神](https://ja.wikipedia.org/wiki/オオヤマツミ "オオヤマツミ")（相殿：[佐伯鞍職](https://ja.wikipedia.org/wiki/佐伯鞍職 "佐伯鞍職")）
+  + 例祭：[1月20日](https://ja.wikipedia.org/wiki/1月20日 "1月20日") - 「百手祭」といわれる御弓神事が行われる。
+  + 本社よりも古くから鎮座する地主神と伝えられる。本殿は[大永](https://ja.wikipedia.org/wiki/大永 "大永")3年（[1523年](https://ja.wikipedia.org/wiki/1523年 "1523年")）造営で、国の重要文化財。
+* [三翁神社](https://ja.wikipedia.org/wiki/三翁神社 "三翁神社") （さんのうじんじゃ）
+  + 鎮座地：宮島町大町（[北緯34度17分46.95秒 東経132度19分15.60秒﻿ / ﻿北緯34.2963750度 東経132.3210000度﻿ / 34.2963750; 132.3210000﻿ (境外摂社：三翁神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_46.95_N_132_19_15.60_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%91%82%E7%A4%BE%EF%BC%9A%E4%B8%89%E7%BF%81%E7%A5%9E%E7%A4%BE)）
+  + 祭神
+    - 中央：[大綿津見神](https://ja.wikipedia.org/wiki/ワタツミ "ワタツミ")、[安徳天皇](https://ja.wikipedia.org/wiki/安徳天皇 "安徳天皇")、[佐伯鞍職](https://ja.wikipedia.org/wiki/佐伯鞍職 "佐伯鞍職")、[二位尼](https://ja.wikipedia.org/wiki/平時子 "平時子")、所翁（ところのおきな）、岩木翁（いわきのおきな）
+    - 左殿：[大己貴命](https://ja.wikipedia.org/wiki/大国主 "大国主")、[猿田彦神](https://ja.wikipedia.org/wiki/サルタヒコ "サルタヒコ")
+    - 右殿：御子内侍（みこないし）、徳寿内侍（とくじゅないし）、竹林内侍
+    - 近江坂本の[日吉大社](https://ja.wikipedia.org/wiki/日吉大社 "日吉大社")（山王社）からの勧請で、明治維新までは「山王社」と称した。一間社流造檜皮葺の社殿が3棟並ぶ。
+* 長浜神社
+  + 鎮座地：宮島町（[北緯34度18分10.42秒 東経132度19分30.27秒﻿ / ﻿北緯34.3028944度 東経132.3250750度﻿ / 34.3028944; 132.3250750﻿ (境外摂社：長浜神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_18_10.42_N_132_19_30.27_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%91%82%E7%A4%BE%EF%BC%9A%E9%95%B7%E6%B5%9C%E7%A5%9E%E7%A4%BE)）
+  + 祭神：興津彦命、興津姫命（相殿：所翁）
+
+### 末社
+
+いずれも境外末社。
+
+* 金刀比羅神社
+  + 鎮座地：宮島町下中西町（[北緯34度17分42.45秒 東経132度19分8.14秒﻿ / ﻿北緯34.2951250度 東経132.3189278度﻿ / 34.2951250; 132.3189278﻿ (境外末社：金刀比羅神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_42.45_N_132_19_8.14_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E9%87%91%E5%88%80%E6%AF%94%E7%BE%85%E7%A5%9E%E7%A4%BE)）
+  + 祭神：[大物主神](https://ja.wikipedia.org/wiki/大物主 "大物主")、[佐伯鞍職](https://ja.wikipedia.org/wiki/佐伯鞍職 "佐伯鞍職")。例祭：[11月10日](https://ja.wikipedia.org/wiki/11月10日 "11月10日")
+* 清盛神社
+  + 鎮座地：宮島町西松原（[北緯34度17分46.95秒 東経132度18分59.10秒﻿ / ﻿北緯34.2963750度 東経132.3164167度﻿ / 34.2963750; 132.3164167﻿ (境外末社：清盛神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_46.95_N_132_18_59.10_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E6%B8%85%E7%9B%9B%E7%A5%9E%E7%A4%BE)）
+  + 祭神：[平清盛](https://ja.wikipedia.org/wiki/平清盛 "平清盛")公
+  + 昭和29年（1954年）、平清盛没後770年にあたって創建。
+* [豊国神社](https://ja.wikipedia.org/wiki/千畳閣 "千畳閣")
+  + 鎮座地：宮島町（[北緯34度17分50.37秒 東経132度19分12.93秒﻿ / ﻿北緯34.2973250度 東経132.3202583度﻿ / 34.2973250; 132.3202583﻿ (境外末社：豊国神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_50.37_N_132_19_12.93_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E8%B1%8A%E5%9B%BD%E7%A5%9E%E7%A4%BE)）
+  + 祭神：[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "豊臣秀吉")公、[加藤清正](https://ja.wikipedia.org/wiki/加藤清正 "加藤清正")公
+  + 「[千畳閣](https://ja.wikipedia.org/wiki/千畳閣 "千畳閣")」として知られる。豊臣秀吉により大経堂として造営が始まったが、秀吉の死で工事は中断し未完成の状態のままとなっている。明治維新後に神仏分離し末社となった。本殿（千畳閣）は国の重要文化財。
+* 今伊勢神社
+  + 鎮座地：宮島町伊勢町（[北緯34度18分2.31秒 東経132度19分21.05秒﻿ / ﻿北緯34.3006417度 東経132.3225139度﻿ / 34.3006417; 132.3225139﻿ (境外末社：今伊勢神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_18_2.31_N_132_19_21.05_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E4%BB%8A%E4%BC%8A%E5%8B%A2%E7%A5%9E%E7%A4%BE)）
+  + 祭神：[天照皇大神](https://ja.wikipedia.org/wiki/天照大神 "天照大神")、[八幡大神](https://ja.wikipedia.org/wiki/八幡神 "八幡神")、[春日大神](https://ja.wikipedia.org/wiki/春日神 "春日神")、[素戔嗚命](https://ja.wikipedia.org/wiki/スサノオ "スサノオ")、興津彦命、興津姫命（相殿：大織冠[藤原鎌足](https://ja.wikipedia.org/wiki/藤原鎌足 "藤原鎌足")霊神）。例祭：[11月1日](https://ja.wikipedia.org/wiki/11月1日 "11月1日")
+  + 要害山の頂上付近（[宮尾城](https://ja.wikipedia.org/wiki/宮尾城 "宮尾城")二の郭）に鎮座。
+* 荒胡子神社 （あらえびすじんじゃ）
+  + 鎮座地：宮島町大町（[北緯34度17分49.07秒 東経132度19分14.68秒﻿ / ﻿北緯34.2969639度 東経132.3207444度﻿ / 34.2969639; 132.3207444﻿ (境外末社：荒胡子神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_49.07_N_132_19_14.68_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E8%8D%92%E8%83%A1%E5%AD%90%E7%A5%9E%E7%A4%BE)）
+  + 祭神：[素戔嗚尊](https://ja.wikipedia.org/wiki/スサノオ "スサノオ")、[事代主神](https://ja.wikipedia.org/wiki/事代主 "事代主")。例祭：[11月20日](https://ja.wikipedia.org/wiki/11月20日 "11月20日")
+  + 本殿は国の重要文化財。
+* 四宮神社 （しのみやじんじゃ）
+  + 鎮座地：宮島町（[北緯34度17分39.17秒 東経132度19分22.86秒﻿ / ﻿北緯34.2942139度 東経132.3230167度﻿ / 34.2942139; 132.3230167﻿ (境外末社：四宮神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_39.17_N_132_19_22.86_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E5%9B%9B%E5%AE%AE%E7%A5%9E%E7%A4%BE)）
+  + 八朔行事「タノモサン」は国の記録作成等の措置を講ずべき無形の民俗文化財に選択されている。
+* 幸神社 （さいわいじんじゃ）
+  + 鎮座地：宮島町（[北緯34度17分50.63秒 東経132度19分18.41秒﻿ / ﻿北緯34.2973972度 東経132.3217806度﻿ / 34.2973972; 132.3217806﻿ (境外末社：幸神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_50.63_N_132_19_18.41_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E5%B9%B8%E7%A5%9E%E7%A4%BE)） - 「道祖神社」とも
+  + 祭神：[猿田彦神](https://ja.wikipedia.org/wiki/サルタヒコ "サルタヒコ")。例祭：[旧暦8月15日](https://ja.wikipedia.org/wiki/8月15日_(旧暦) "8月15日 (旧暦)")
+* 北之神社
+  + 鎮座地：宮島町中江町（[北緯34度17分53.60秒 東経132度19分26.47秒﻿ / ﻿北緯34.2982222度 東経132.3240194度﻿ / 34.2982222; 132.3240194﻿ (境外末社：北之神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_53.60_N_132_19_26.47_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E5%8C%97%E4%B9%8B%E7%A5%9E%E7%A4%BE)）
+  + 祭神：猿田彦神
+* 祖霊社
+  + 鎮座地：宮島町南町（[北緯34度17分46.57秒 東経132度19分16.15秒﻿ / ﻿北緯34.2962694度 東経132.3211528度﻿ / 34.2962694; 132.3211528﻿ (境外末社：祖霊社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_46.57_N_132_19_16.15_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E7%A5%96%E9%9C%8A%E7%A4%BE)）
+* 包ヶ浦神社
+  + 鎮座地：宮島町（[北緯34度17分39.96秒 東経132度20分49.16秒﻿ / ﻿北緯34.2944333度 東経132.3469889度﻿ / 34.2944333; 132.3469889﻿ (境外末社：包ヶ浦神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_39.96_N_132_20_49.16_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E5%8C%85%E3%83%B6%E6%B5%A6%E7%A5%9E%E7%A4%BE)）
+  + 祭神：[塩土翁](https://ja.wikipedia.org/wiki/シオツチノオジ "シオツチノオジ")
+* 養父崎神社 （やぶさきじんじゃ）
+  + 鎮座地：宮島町養父崎浦（[北緯34度14分31.32秒 東経132度17分54.87秒﻿ / ﻿北緯34.2420333度 東経132.2985750度﻿ / 34.2420333; 132.2985750﻿ (境外末社：養父崎神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_14_31.32_N_132_17_54.87_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E9%A4%8A%E7%88%B6%E5%B4%8E%E7%A5%9E%E7%A4%BE)）
+  + 祭神：御烏
+* 粟島神社
+  + 鎮座地：滝町（[北緯34度17分36.36秒 東経132度19分8.80秒﻿ / ﻿北緯34.2934333度 東経132.3191111度﻿ / 34.2934333; 132.3191111﻿ (境外末社：粟島神社)](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_17_36.36_N_132_19_8.80_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E7%B2%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE)）
+  + 祭神：[少彦名命](https://ja.wikipedia.org/wiki/少彦名命 "少彦名命")。例祭：[5月3日](https://ja.wikipedia.org/wiki/5月3日 "5月3日")
+
+* [![金刀比羅神社](images/120px-金刀比羅神社_(厳島神社境内社).JPG)](https://ja.wikipedia.org/wiki/ファイル:金刀比羅神社_(厳島神社境内社).JPG "金刀比羅神社")
+
+  金刀比羅神社
+* [![清盛神社](images/120px-Kiyomori-jinja.jpeg)](https://ja.wikipedia.org/wiki/ファイル:Kiyomori-jinja.jpeg "清盛神社")
+
+  清盛神社
+* [![今伊勢神社](images/120px-Miyao_castle_ninomaru.JPG)](https://ja.wikipedia.org/wiki/ファイル:Miyao_castle_ninomaru.JPG "今伊勢神社")
+
+  今伊勢神社
+
+#### 宮島七浦の末社
+
+七浦とは島の周囲にある浦の総称で、各浦に以下の神社が東回りに鎮座している。古くは島廻りが盛んに行われていた。
+
+* 杉之浦神社 （すぎのうら、宮島町杉之浦、[北緯34度18分19.45秒 東経132度20分2.66秒](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_18_19.45_N_132_20_2.66_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E6%9D%89%E4%B9%8B%E6%B5%A6%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%B3%B6%E5%BB%BB%E3%82%8A%E7%AC%AC%E4%B8%80%E6%8B%9D%E6%89%80%EF%BC%89)） - 第一拝所。祭神：底津少童命
+* 鷹巣浦神社 （たかのすうら、宮島町鷹巣浦、[北緯34度16分43.29秒 東経132度20分30.60秒](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_16_43.29_N_132_20_30.60_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E9%B7%B9%E5%B7%A3%E6%B5%A6%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%B3%B6%E5%BB%BB%E3%82%8A%E7%AC%AC%E4%BA%8C%E6%8B%9D%E6%89%80%EF%BC%89)） - 第二拝所。祭神：[底筒男命](https://ja.wikipedia.org/wiki/住吉三神 "住吉三神")
+* 腰細浦神社 （こしぼそうら、宮島町腰細浦、[北緯34度16分23.79秒 東経132度20分17.66秒](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_16_23.79_N_132_20_17.66_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E8%85%B0%E7%B4%B0%E6%B5%A6%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%B3%B6%E5%BB%BB%E3%82%8A%E7%AC%AC%E4%B8%89%E6%8B%9D%E6%89%80%EF%BC%89)） - 第三拝所。祭神：中津少童命
+* 青海苔浦神社 （あおのりうら、宮島町青海苔浦、[北緯34度14分56.42秒 東経132度18分22.24秒](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_14_56.42_N_132_18_22.24_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E9%9D%92%E6%B5%B7%E8%8B%94%E6%B5%A6%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%B3%B6%E5%BB%BB%E3%82%8A%E7%AC%AC%E5%9B%9B%E6%8B%9D%E6%89%80%EF%BC%89)） - 第四拝所。祭神：[中筒男命](https://ja.wikipedia.org/wiki/住吉三神 "住吉三神")
+* 山白浜神社 （やましろはま、宮島町山白浜、[北緯34度14分8.04秒 東経132度16分56.86秒](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_14_8.04_N_132_16_56.86_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E5%B1%B1%E7%99%BD%E6%B5%9C%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%B3%B6%E5%BB%BB%E3%82%8A%E7%AC%AC%E4%BA%94%E6%8B%9D%E6%89%80%EF%BC%89)） - 第五拝所。祭神：表津少童命
+* 須屋浦神社 （すやうら、宮島町須屋浦、[北緯34度15分19.80秒 東経132度15分57.61秒](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_15_19.80_N_132_15_57.61_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E9%A0%88%E5%B1%8B%E6%B5%A6%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%B3%B6%E5%BB%BB%E3%82%8A%E7%AC%AC%E5%85%AD%E6%8B%9D%E6%89%80%EF%BC%89)） - 第六拝所。祭神：[表筒男命](https://ja.wikipedia.org/wiki/住吉三神 "住吉三神")
+* 御床神社 （みとこ、宮島町御床浦、[北緯34度15分43.82秒 東経132度16分24.47秒](https://geohack.toolforge.org/geohack.php?language=ja&pagename=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&params=34_15_43.82_N_132_16_24.47_E_region:JP-34&title=%E5%A2%83%E5%A4%96%E6%9C%AB%E7%A4%BE%EF%BC%9A%E5%BE%A1%E5%BA%8A%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%B3%B6%E5%BB%BB%E3%82%8A%E7%AC%AC%E4%B8%83%E6%8B%9D%E6%89%80%EF%BC%89)） - 第七拝所。祭神：[市杵島姫命](https://ja.wikipedia.org/wiki/イチキシマヒメ "イチキシマヒメ")
+
+## 祭事
+
+### 年間祭事
+
+* 1月
+  + 歳旦祭 （[1月1日](https://ja.wikipedia.org/wiki/1月1日 "1月1日")）
+  + 二日祭 （[1月2日](https://ja.wikipedia.org/wiki/1月2日 "1月2日")）
+  + 元始祭 （[1月3日](https://ja.wikipedia.org/wiki/1月3日 "1月3日")）
+  + 地久祭 （[1月5日](https://ja.wikipedia.org/wiki/1月5日 "1月5日")）
+* 2月
+  + [天長祭](https://ja.wikipedia.org/wiki/天長祭 "天長祭") （[2月23日](https://ja.wikipedia.org/wiki/2月23日 "2月23日")）
+* 4月
+  + 桃花祭 （[4月15日](https://ja.wikipedia.org/wiki/4月15日 "4月15日")）
+  + 桃花祭御神能 （[4月16日](https://ja.wikipedia.org/wiki/4月16日 "4月16日")-[18日](https://ja.wikipedia.org/wiki/4月18日 "4月18日")）
+* 5月
+  + 推古天皇祭遙拝式 （[5月18日](https://ja.wikipedia.org/wiki/5月18日 "5月18日")）
+* 6月
+  + 市立祭 （[旧暦6月5日](https://ja.wikipedia.org/wiki/6月5日_(旧暦) "6月5日 (旧暦)")）
+  + [管絃祭](https://ja.wikipedia.org/wiki/管絃祭 "管絃祭") （[旧暦6月17日](https://ja.wikipedia.org/wiki/6月17日_(旧暦) "6月17日 (旧暦)")） - [例祭](https://ja.wikipedia.org/wiki/例祭 "例祭")
+* 7月
+  + 玉取祭 （[旧暦7月14日](https://ja.wikipedia.org/wiki/7月14日_(旧暦) "7月14日 (旧暦)")） - 8月正午満潮時の日曜日
+* 10月
+  + 献茶祭 （[10月4日](https://ja.wikipedia.org/wiki/10月4日 "10月4日")）
+  + 菊花祭 （[10月15日](https://ja.wikipedia.org/wiki/10月15日 "10月15日")）
+* 12月
+  + 鎮火祭 （[12月31日](https://ja.wikipedia.org/wiki/12月31日 "12月31日")）
+
+* [![能（能舞台）](images/120px-Noh2.jpg)](https://ja.wikipedia.org/wiki/ファイル:Noh2.jpg "能（能舞台）")
+
+  能（能舞台）
+* [![玉取祭の台](images/120px-Miyajima_temple_2004.jpg)](https://ja.wikipedia.org/wiki/ファイル:Miyajima_temple_2004.jpg "玉取祭の台")
+
+  玉取祭の台
+
+### 管絃祭
+
+[管絃祭](https://ja.wikipedia.org/wiki/管絃祭 "管絃祭")（かんげんさい）は、[旧暦6月17日](https://ja.wikipedia.org/wiki/6月17日_(旧暦) "6月17日 (旧暦)")に行われる[例祭](https://ja.wikipedia.org/wiki/例祭 "例祭")。大阪の[天神祭](https://ja.wikipedia.org/wiki/天神祭 "天神祭")（[大阪天満宮](https://ja.wikipedia.org/wiki/大阪天満宮 "大阪天満宮")）、島根の[ホーランエンヤ](https://ja.wikipedia.org/wiki/ホーランエンヤ_(島根県) "ホーランエンヤ (島根県)")（城山稲荷神社）とともに「日本三大船神事」に数えられる。
+
+[平清盛](https://ja.wikipedia.org/wiki/平清盛 "平清盛")が始めたとされる都で行われていた管絃遊びを元にした神事で、管絃船（御座船）が対岸の[地御前神社](https://ja.wikipedia.org/wiki/地御前神社 "地御前神社")へ渡御したのち還御する。厳島が禁足地とされていた時代は、対岸の地御前神社から厳島神社に行き管絃を合奏する神事であった（詳しくは「[管絃祭](https://ja.wikipedia.org/wiki/管絃祭 "管絃祭")」を参照）。
+
+* [![管絃祭の様子（昼）](images/120px-Itsukushima-kangensai.JPG)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima-kangensai.JPG "管絃祭の様子（昼）")
+
+  管絃祭の様子（昼）
+* [![管絃祭の様子（夜）](images/120px-Kangen_jigozen2.jpg)](https://ja.wikipedia.org/wiki/ファイル:Kangen_jigozen2.jpg "管絃祭の様子（夜）")
+
+  管絃祭の様子（夜）
+
+## 文化財
+
+### 国宝
+
+#### 建造物
+
+* 厳島神社（1件6棟）
+  + 本社本殿、幣殿、拝殿（1棟）（附 玉垣（不明門を含む）、左右内侍橋）
+  + 本社祓殿
+  + 摂社客（まろうど）神社本殿、幣殿、拝殿（1棟）（附 玉垣）
+  + 摂社客神社祓殿
+  + 廻廊東廻廊
+  + 廻廊西廻廊
+    - （本社の附）高舞台、平舞台、左右楽房、左右門客神社本殿、棟札4枚
+    - （廻廊の附）棟札19枚
+
+#### 美術工芸品
+
+[![](images/250px-HEIKE_Lotus_Sutra_Prologue.JPG)](https://ja.wikipedia.org/wiki/ファイル:HEIKE_Lotus_Sutra_Prologue.JPG)
+
+平家納経　序品　見返し絵
+
+[![](images/250px-Fan_of_Japanese_Cypress_ITUKUSHIMA_shrine.JPG)](https://ja.wikipedia.org/wiki/ファイル:Fan_of_Japanese_Cypress_ITUKUSHIMA_shrine.JPG)
+
+彩絵檜扇
+
+[![](images/330px-The_Japanese_sword_of_the_Kamakura_period.JPG)](https://ja.wikipedia.org/wiki/ファイル:The_Japanese_sword_of_the_Kamakura_period.JPG)
+
+兵庫鎖太刀（5口のうち）
+
+* [平家納経](https://ja.wikipedia.org/wiki/平家納経 "平家納経")
+  + 法華経（開結共）30巻、阿弥陀経1巻、般若心経1巻、長寛二年平清盛願文1巻
+  + 金銀荘雲龍文銅製経箱 1具
+  + 蔦蒔絵唐櫃 1合
+* 金銅密教法具 1具（金剛盤1口、五鈷鈴1口、独鈷杵1口、三鈷杵1口、五鈷杵1口）
+* 厳島神社古神宝類 一括
+  + 宝相華文螺鈿平塵飾太刀 1口
+  + 双鳳文螺鈿平塵飾太刀鞘 1口
+  + 半臂 1枚（附 紅地幸菱文綾残片）
+  + 内衣 1枚
+  + 石帯 1条
+  + 平緒 1条
+  + 木笏 1握
+  + 檜扇 3握
+  + 飾太刀 1口
+  + 平胡籙　1口
+  + 箭11隻
+  + 朱塗飾太刀箱 1合
+  + 朱塗飾太刀箱 1合
+  + 松食鶴小唐櫃 1合
+  + 松食鶴小唐櫃 1合
+* 紺絲威鎧（こんいとおどしよろい） 兜、大袖付
+* 小桜韋黄返威鎧（こざくらがわきがえしおどしよろい） 兜、大袖付
+* 浅黄綾威鎧 兜、大袖付
+* 黒韋威胴丸（くろかわおどしどうまる） 兜、大袖付
+* 太刀 銘[友成](https://ja.wikipedia.org/wiki/友成 "友成")作
+* 梨子地桐文螺鈿腰刀　中身に友成作と銘がある（附 蒔絵箱）
+* 彩絵桧扇
+* 紺紙金字法華経7巻・観普賢経1巻（平清盛・頼盛合筆）（附 金銅経箱）
+
+### 重要文化財
+
+#### 建造物（重要文化財）
+
+* 朝座屋
+* 能舞台（附 橋掛及び能楽屋）
+* 揚水橋
+* 長橋
+* 反橋
+* 大鳥居（附 棟札2枚）
+* 摂社大国神社本殿
+* 摂社天神社本殿（附 宮殿1基、渡廊1棟、棟札1枚）
+* 摂社大元神社本殿（附 宮殿3基、銘札2枚）
+* 宝蔵（附 棟札1枚）
+* 五重塔
+* 多宝塔（附 棟札1枚）
+* 末社荒胡子神社本殿（附 棟札1枚）
+* 末社豊国神社本殿（[千畳閣](https://ja.wikipedia.org/wiki/千畳閣 "千畳閣")）（附 棟札2枚）
+
+#### 美術工芸品（重要文化財）
+
+* 絹本著色山姥図 長沢芦雪筆（絵馬）
+* 釈迦及諸尊箱仏
+* 舞楽面 2面（貴徳、散手）
+* 舞楽面 7面（二ノ舞（2面）、採桑老、納曾利（なそり）、抜頭（ばとう）、還城楽（げんじょうらく）、陵王）
+* 木造狛犬 14躯
+* 木造飾馬
+* 梅唐草蒔絵文台硯箱 1組
+* 紺紙金泥法華経入蓮花蒔絵経函
+* 紙本墨書扇（伝高倉天皇御物）
+* 七絃琴（伝平重衡所用）
+* 鋳銅釣燈籠 正平廿一年（1366年）銘
+* 木製彩色楽器 奚婁（けいろう）、鼗（ふりつづみ）（「ふりつづみ」の漢字は上半分が「兆」、下半分が「鼓」）
+* 木製銅字扁額 後奈良天皇宸翰 2面
+* 太刀 中身久国ト銘アリ（附 糸巻太刀拵）
+* 短刀 銘長谷部国信（附 銀鮫柄蝋色刻鞘合口拵）
+* 太刀 銘光忠（附 革柄蝋色鞘脇指拵）
+* 太刀 銘備州長船住（一字不明）真（附 革包太刀拵）
+* 太刀 表ニ備州長船住（一字不明）長作 裏ニ嘉元二二年十月日ノ銘アリ（社伝則長作）
+* 太刀 銘一（附 糸巻太刀拵）
+* 太刀 銘一（附 黒漆太刀拵）
+* 刀 無銘伝雲次（附 革柄蝋色鞘打刀拵）
+* 太刀 銘備中国住（以下不明） 延文三年六月日
+* 太刀 銘包次（附 黒漆半太刀拵）
+* 太刀 銘清綱（附 野太刀拵）
+* 太刀 銘文永二年三月清綱（附 革包太刀拵）
+* 大太刀 銘備後国住人行吉作
+* 刀 銘談議所西蓮（附 打刀拵）
+* 錦包籐巻太刀、錦包籐巻腰刀　刀身欠
+* 革包太刀　中身貞和二年云々トアリ
+* 鍍金長覆輪太刀
+* 鍍金兵庫鎖太刀 5口
+* 木地塗螺鈿飾太刀
+* 漆絵大小拵（こしらえ）（陣刀）（小柄前欠）
+* 藍韋（あいかわ）肩赤威甲冑 大内義隆奉納
+* 赤糸威胴丸具足 筋兜・小具足付
+* 銀小札（ぎんこざね）白糸威胴丸具足 兜・大袖・小具足付（附 鎧櫃）
+* 能装束 紅地鳳凰桜雪持笹文唐織
+* 能装束 紅浅葱地菊笹大内菱文様段替唐織
+* 舞楽装束（納曾利）天正十七年（1589年）朱書銘
+* 狂言装束（唐人用） 繍箔鳳凰鴛鴦菊文、繍箔鳳凰柳桜文、繍箔楓菊桐杜若文、繍箔柳樹鷺文
+* 紺紙金字華厳経（附 黒漆塗経箱）56巻
+* 紺紙金字大方等大集経（附 黒漆塗経箱）50巻
+* 紺紙金泥金剛寿命陀羅尼経 平親宗筆
+* 紙本墨書御判物帖 2帖
+
+### 国の登録有形文化財
+
+* 宝物館
+
+### 国の特別史跡・特別名勝
+
+* 厳島
+
+### 広島県指定重要文化財
+
+* 銅鐘
+* 鉄地黒漆塗三十八間総覆輪筋兜
+* 琵琶（附 捍撥革1枚）
+
+### 名所・旧跡
+
+* [世界遺産](https://ja.wikipedia.org/wiki/世界遺産 "世界遺産")：文化遺産「厳島神社」
+  + 対象：国宝・重要文化財指定の建造物に同じ - 全27棟3基
+* [美しい日本の歩きたくなるみち500選](https://ja.wikipedia.org/wiki/美しい日本の歩きたくなるみち500選 "美しい日本の歩きたくなるみち500選")「世界文化遺産・宮島厳島神社へのみち」
+
+### その他
+
+* [算額](https://ja.wikipedia.org/wiki/算額 "算額") 文政10年9月　桧山義况及門人奉納（収蔵）
+* 屈原 [横山大観](https://ja.wikipedia.org/wiki/横山大観 "横山大観")筆
+
+## 世界遺産の登録
+
+この世界遺産は[世界遺産登録基準](https://ja.wikipedia.org/wiki/世界遺産#世界遺産登録基準 "世界遺産")のうち、以下の条件を満たし、登録された（以下の基準は[世界遺産センター](https://ja.wikipedia.org/wiki/世界遺産センター "世界遺産センター")公表の[登録基準](https://whc.unesco.org/en/criteria)からの翻訳、引用である）。
+
+* (1) 人類の創造的才能を表現する傑作。
+* (2) ある期間を通じてまたはある文化圏において、建築、技術、記念碑的芸術、都市計画、景観デザインの発展に関し、人類の価値の重要な交流を示すもの。
+* (4) 人類の歴史上重要な時代を例証する建築様式、建築物群、技術の集積または景観の優れた例。
+* (6) 顕著で普遍的な意義を有する出来事、現存する伝統、思想、信仰または芸術的、文学的作品と直接にまたは明白に関連するもの（この基準は他の基準と組み合わせて用いるのが望ましいと世界遺産委員会は考えている）。
+
+## 現地情報
+
+### 所在地
+
+* [広島県](https://ja.wikipedia.org/wiki/広島県 "広島県")[廿日市市](https://ja.wikipedia.org/wiki/廿日市市 "廿日市市")宮島町1-1
+
+### 拝観時間
+
+* 6時30分 - 17時
+  + 通常は17時に閉門となる。ただし、大鳥居については17時以降も[ライトアップ](https://ja.wikipedia.org/wiki/ライトアップ "ライトアップ")されており、[干潮](https://ja.wikipedia.org/wiki/干潮 "干潮")であれば近づくことも可能である。
+
+### 付属施設
+
+* 宝物館 - 厳島神社の所有する国宝・重要文化財指定を含む宝物を展示
+
+### 交通アクセス
+
+[![](images/250px-Itsukushima-jinja_torii_(Miyajima)_-_DSC01967.JPG)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima-jinja_torii_(Miyajima)_-_DSC01967.JPG)
+
+フェリーと社殿  
+フェリーは大鳥居近くを航行する。
+
+→「[厳島 § 交通アクセス](https://ja.wikipedia.org/wiki/厳島#交通アクセス "厳島")」も参照
+
+* 宮島口桟橋から宮島（[宮島桟橋](https://ja.wikipedia.org/wiki/宮島桟橋 "宮島桟橋")）まで
+  + フェリー利用。宮島桟橋から拝観入口までは徒歩約10分
+  + [JR西日本宮島フェリー](https://ja.wikipedia.org/wiki/JR西日本宮島フェリー "JR西日本宮島フェリー") [宮島航路](https://ja.wikipedia.org/wiki/宮島連絡船 "宮島連絡船") （乗船時間約10分）
+  + [宮島松大汽船](https://ja.wikipedia.org/wiki/宮島松大汽船 "宮島松大汽船") [宮島航路](https://ja.wikipedia.org/wiki/宮島航路 "宮島航路") （乗船時間約10分）
+* 宮島口桟橋までのアクセス
+  + [JR西日本](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "西日本旅客鉄道")[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "山陽本線") [宮島口駅](https://ja.wikipedia.org/wiki/宮島口駅 "宮島口駅") （徒歩5分）
+  + [広島電鉄](https://ja.wikipedia.org/wiki/広島電鉄 "広島電鉄")[宮島線](https://ja.wikipedia.org/wiki/広島電鉄宮島線 "広島電鉄宮島線") [広電宮島口駅](https://ja.wikipedia.org/wiki/広電宮島口駅 "広電宮島口駅") （徒歩すぐ）
+  + [ひろでんモビリティサービス](https://ja.wikipedia.org/wiki/ひろでんモビリティサービス "ひろでんモビリティサービス") [宮島口空港線](https://www.hiroden-ms.co.jp/airport-access/) 宮島口バス停（徒歩すぐ）
+
+アクセス補足事項
+
+* 島内の駐車場：なし。自動車利用の場合は宮島口桟橋付近の駐車場に駐車し、フェリーで島に渡る。厳島内の宿に宿泊する場合は宿の駐車場が利用できる場合もあるが、島内の道路は狭い。
+* 別ルートとして、[広島港](https://ja.wikipedia.org/wiki/広島港 "広島港")や[広島平和記念公園](https://ja.wikipedia.org/wiki/広島平和記念公園 "広島平和記念公園")からの観光遊覧船ルートもある（便数は少なく平日は終了も早い）。
+
+[弥山](https://ja.wikipedia.org/wiki/弥山_(広島県) "弥山 (広島県)")山頂まで
+
+[![](images/250px-Mount_Misen_(Miyajima)_-_DSC02043.JPG)](https://ja.wikipedia.org/wiki/ファイル:Mount_Misen_(Miyajima)_-_DSC02043.JPG)
+
+[弥山](https://ja.wikipedia.org/wiki/弥山_(広島県) "弥山 (広島県)")山頂の巨石群
+
+* [宮島ロープウェー](https://ja.wikipedia.org/wiki/広島観光開発 "広島観光開発")利用
+  + ロープウェー：山麓の紅葉谷駅から獅子岩駅まで （閑散期で約15分） - 紅葉谷公園入口から紅葉谷駅まで無料のシャトルバスが運行
+  + 獅子岩駅から山頂までは、徒歩で約30分
+* 徒歩（登山） - 「[弥山 (広島県)#登山経路](https://ja.wikipedia.org/wiki/弥山_(広島県)#登山経路 "弥山 (広島県)")」を参照
+  + 紅葉谷コース・夕日観音コース・大聖院コース・大元公園コースがあり、所要時間は概ね90分から120分
+* 奥宮の御山神社へは、弥山本堂から分かれて徒歩約5分
+* 弥山は標高が535メートルあり、山麓とは天気・気温が変わる場合があるので注意が必要
+
+### 周辺
+
+* [大聖院](https://ja.wikipedia.org/wiki/大聖院_(宮島) "大聖院 (宮島)") - 旧[別当寺](https://ja.wikipedia.org/wiki/別当寺 "別当寺")
+* [大願寺](https://ja.wikipedia.org/wiki/大願寺_(廿日市市) "大願寺 (廿日市市)")
+* [宮尾城](https://ja.wikipedia.org/wiki/宮尾城 "宮尾城")跡 - 参道途中の要害山に残る城跡
+* 宮島歴史民俗資料館
+* [宮島水族館](https://ja.wikipedia.org/wiki/宮島水族館 "宮島水族館")
+
+## 関連作品
+
+### 描かれた厳島神社
+
+[美術](https://ja.wikipedia.org/wiki/美術 "美術")作品だけでも、厳島神社や安芸宮島/[安芸](https://ja.wikipedia.org/wiki/安芸国 "安芸国")の[宮島](https://ja.wikipedia.org/wiki/宮島 "宮島")（あきのみやじま）を描いた[二次元](https://ja.wikipedia.org/wiki/二次元 "二次元")表現物は数多く、ここに挙げるものはほんの一部に過ぎない。戦国乱世のささくれだった風潮が払拭されない[江戸時代](https://ja.wikipedia.org/wiki/江戸時代 "江戸時代")前期が過ぎ、太平の世が深まって[大衆文化](https://ja.wikipedia.org/wiki/大衆文化 "大衆文化")が隆盛する中期になると[参拝・参詣](https://ja.wikipedia.org/wiki/参拝 "参拝")と[物見遊山（観光）](https://ja.wikipedia.org/wiki/観光 "観光")の機運が芽生え、後期に差し掛かる前にいよいよ機運は“沸騰”する。そのようななかで[山陽道](https://ja.wikipedia.org/wiki/山陽道 "山陽道")の安芸宮島が「行ってみたい憧れの参詣地」として画題になったのは当然のことであった。宮島でもとりわけ厳島神社、厳島神社でもとりわけ[大鳥居](#大鳥居)は、この地域を象徴する画題として分かりやすく、そして人気が高かった。[葛飾北斎](https://ja.wikipedia.org/wiki/葛飾北斎 "葛飾北斎")の[名所](https://ja.wikipedia.org/wiki/名所絵 "名所絵")[浮世絵](https://ja.wikipedia.org/wiki/浮世絵 "浮世絵")[揃物](https://ja.wikipedia.org/wiki/連作_(作品)?action=edit&redlink=1 "連作 (作品) (存在しないページ)")『[富嶽三十六景](https://ja.wikipedia.org/wiki/富嶽三十六景 "富嶽三十六景")』における[富士山](https://ja.wikipedia.org/wiki/富士山 "富士山")さながらに、[明治](https://ja.wikipedia.org/wiki/明治 "明治")時代には厳島神社の大鳥居を連作の画題として描くものまで現れた。
+
+一方で、江戸時代前期以前に描かれたものは他の[神社仏閣](https://ja.wikipedia.org/wiki/神社仏閣 "神社仏閣")並みに特段多くはなかったと思われ、確定的なことだけをいうなら、描かれていたとしても現在まで伝えられたものは少ない。
+
+1. [絵巻物](https://ja.wikipedia.org/wiki/絵巻物 "絵巻物")『[一遍聖絵](https://ja.wikipedia.org/wiki/一遍聖絵 "一遍聖絵")』（いっぺんひじりえ）
+:   『一遍聖絵』は、[正安](https://ja.wikipedia.org/wiki/正安 "正安")１元年（[1299年](https://ja.wikipedia.org/wiki/1299年 "1299年")）、[一遍](https://ja.wikipedia.org/wiki/一遍 "一遍")の弟子にあたる[聖戒](https://ja.wikipedia.org/wiki/聖戒 "聖戒")が詞書を起草。絵は画僧・法眼[円伊](https://ja.wikipedia.org/wiki/円伊 "円伊")による。[清浄光寺](https://ja.wikipedia.org/wiki/清浄光寺 "清浄光寺")本（旧[歓喜光寺](https://ja.wikipedia.org/wiki/歓喜光寺 "歓喜光寺")本）の巻第十には、[弘安](https://ja.wikipedia.org/wiki/弘安 "弘安")10年（[1287年](https://ja.wikipedia.org/wiki/1287年 "1287年")）に執り行われた臨時祭の時の厳島神社を描いた1図が含まれている。『一遍聖絵』は[国宝](https://ja.wikipedia.org/wiki/国宝 "国宝")で、指定日は[1952年](https://ja.wikipedia.org/wiki/1952年 "1952年")（昭和27年）[3月29日](https://ja.wikipedia.org/wiki/3月29日 "3月29日")。指定名称は「絹本著色一遍上人絵伝」。所有者は神奈川県・清浄光寺。
+:   ■画像もある「<#一遍上人絵伝に描かれる厳島神社>」節で詳説する。
+
+2. [長沢芦雪](https://ja.wikipedia.org/wiki/長沢芦雪 "長沢芦雪") 『絹本淡彩宮島八景図』（けんぽん たんさい みやじまはっけいず）
+:   [水墨画](https://ja.wikipedia.org/wiki/水墨画 "水墨画")。この画像は1帖8図中の1図。[寛政](https://ja.wikipedia.org/wiki/寛政 "寛政")6年（[1794年](https://ja.wikipedia.org/wiki/1794年 "1794年")）[款](https://ja.wikipedia.org/wiki/落款 "落款")記。国指定[重要文化財](https://ja.wikipedia.org/wiki/重要文化財 "重要文化財")で、指定日は[1965年](https://ja.wikipedia.org/wiki/1965年 "1965年")（昭和40年）[5月29日](https://ja.wikipedia.org/wiki/5月29日 "5月29日")。所有者は国（[文化庁](https://ja.wikipedia.org/wiki/文化庁 "文化庁")）、保管施設は[東京国立博物館](https://ja.wikipedia.org/wiki/東京国立博物館 "東京国立博物館")文化庁分室。
+
+3. [歌川国貞](https://ja.wikipedia.org/wiki/歌川国貞 "歌川国貞") 『紅毛油絵風 安芸の宮島』（こうもうあぶらえふう あきのみやじま）
+:   [文政](https://ja.wikipedia.org/wiki/文政 "文政")8年（[1825年](https://ja.wikipedia.org/wiki/1825年 "1825年")）刊行。横大判[錦絵](https://ja.wikipedia.org/wiki/錦絵 "錦絵")。紅毛油絵（[欧米](https://ja.wikipedia.org/wiki/欧米 "欧米")の[油彩画](https://ja.wikipedia.org/wiki/油彩画 "油彩画")）に倣って描かれた名所浮世絵[揃物](https://ja.wikipedia.org/wiki/連作_(作品)?action=edit&redlink=1 "連作 (作品) (存在しないページ)")『紅毛油絵風』中の1図。
+
+4. [歌川広重](https://ja.wikipedia.org/wiki/歌川広重 "歌川広重") 『六十余州名所図会 安芸 巌島祭礼之図』（ろくじゅうよしゅうめいしょずえ　あき いつくしま さいれいのず）
+:   [嘉永](https://ja.wikipedia.org/wiki/嘉永 "嘉永")6年（[1854年](https://ja.wikipedia.org/wiki/1854年 "1854年")）刊行。縦大判[錦絵](https://ja.wikipedia.org/wiki/錦絵 "錦絵")。[板元](https://ja.wikipedia.org/wiki/版元 "版元")は越平（[越村屋平助](https://ja.wikipedia.org/wiki/越村屋平助 "越村屋平助")）。[名所](https://ja.wikipedia.org/wiki/名所絵 "名所絵")[浮世絵](https://ja.wikipedia.org/wiki/浮世絵 "浮世絵")揃物『[六十余州名所図会](https://ja.wikipedia.org/wiki/六十余州名所図会 "六十余州名所図会")』の第50景。旧暦[6月17日](https://ja.wikipedia.org/wiki/6月17日_(旧暦) "6月17日 (旧暦)")の夜に行われる船神事「[管絃祭](https://ja.wikipedia.org/wiki/管絃祭 "管絃祭")（かんげんさい）」の一幕で、足元を[大潮](https://ja.wikipedia.org/wiki/大潮 "大潮")に洗わせる[大鳥居](#大鳥居)を、見切れた画角で近景として描いている。中景の管絃船は大鳥居前の儀を斎行している。管絃船とは管絃を奏しながら航行する船のことで、本図が描かれた[幕末](https://ja.wikipedia.org/wiki/幕末 "幕末")初頭におけるこの祭礼では船3艘を横に繋げた[御座船](https://ja.wikipedia.org/wiki/御座船 "御座船")であった。[鳳輦](https://ja.wikipedia.org/wiki/鳳輦 "鳳輦")に乗って厳島神社本殿を出御した[祭神](https://ja.wikipedia.org/wiki/祭神 "祭神")は、大鳥居前で待っていた管絃船に既に乗り換えている。大鳥居前の儀を終えると、管絃船は各所を巡幸し、大鳥居をくぐって[客神社](#客神社)祓殿前から枡形を廻った後、本殿へ還御するのであるが、この時代の管絃船は航行の安全を期して[阿賀](https://ja.wikipedia.org/wiki/阿賀_(呉市) "阿賀 (呉市)")・[江波](https://ja.wikipedia.org/wiki/江波_(広島市) "江波 (広島市)")2村の船団に[曳航](https://ja.wikipedia.org/wiki/曳航 "曳航")させている。本図には取り巻きの船が6艘描かれており、儀式が終わり次第これらの船の代表が曳航を始めることになっている。大鳥居の儀が斎行される時刻は、今も昔も暮れ六つ（すなわち[薄明](https://ja.wikipedia.org/wiki/薄明 "薄明")〈日が落ちた直後の仄暗い頃、[トワイライト](https://ja.wikipedia.org/wiki/トワイライト "トワイライト")タイム〉の直後）と決まっており、すなわちそれは夜の帳（とばり）が[陽の光](https://ja.wikipedia.org/wiki/太陽光 "太陽光")の名残まで消し去った時であるが、広重はこの点も正確に描いている。
+
+5. 歌川広重 [団扇絵](https://ja.wikipedia.org/wiki/団扇絵 "団扇絵")『日本三景 安芸 厳島』（にほんさんけい　あき いつくしま）
+:   嘉永5年-[安政](https://ja.wikipedia.org/wiki/安政 "安政")4年（[1852](https://ja.wikipedia.org/wiki/1852年 "1852年")-[1858年](https://ja.wikipedia.org/wiki/1858年 "1858年")）中に刊行。
+
+6. [2代目 歌川広重](https://ja.wikipedia.org/wiki/歌川広重_(2代目) "歌川広重 (2代目)") 『諸国名所百景 安芸宮島汐干』（しょこくめいしょひゃっけい　あきのみやじま しおひ）
+:   安政6年（[1860年](https://ja.wikipedia.org/wiki/1860年 "1860年")）刊行。縦大判錦絵。板元は魚栄（[魚屋栄吉](https://ja.wikipedia.org/wiki/魚屋栄吉 "魚屋栄吉")）。名所浮世絵揃物『諸国名所百景』の1図。[桜](https://ja.wikipedia.org/wiki/サクラ "サクラ")の咲く季節の[明け方](https://ja.wikipedia.org/wiki/明け方 "明け方")、[引き潮](https://ja.wikipedia.org/wiki/引き潮 "引き潮")時の大鳥居を近景に宮島を描く。鳥居に近づく人々もいれば、[鹿](https://ja.wikipedia.org/wiki/ニホンシカ "ニホンシカ")もいる。題名にもあるとおり、[潮干狩](https://ja.wikipedia.org/wiki/潮干狩 "潮干狩")をする人々も見える。
+
+7. [月岡芳年](https://ja.wikipedia.org/wiki/月岡芳年 "月岡芳年") 『大日本名将鑑 毛利元就』（だいにっぽんめいしょうかがみ　もうりもとなり）
+:   [1879年](https://ja.wikipedia.org/wiki/1879年 "1879年")（[明治](https://ja.wikipedia.org/wiki/明治 "明治")12年）2月刊行。縦大判錦絵。絵師の名義は大蘇芳年。[武者絵](https://ja.wikipedia.org/wiki/武者絵 "武者絵")揃物『大日本名勝鑑』の1図。[厳島の戦い](https://ja.wikipedia.org/wiki/厳島の戦い "厳島の戦い")の一場面を描く。
+
+8. 月岡芳年 『月百姿 いつくしまの月 室遊女』（つきのひゃくし　いつくしまのつき むろのあそびめ）
+:   [1886年](https://ja.wikipedia.org/wiki/1886年 "1886年")（明治19年）刊行。縦大判錦絵。板元は滑稽堂（[秋山武右衛門](https://ja.wikipedia.org/wiki/秋山武右衛門 "秋山武右衛門")）。月に材を取った浮世絵揃物『[月百姿](https://ja.wikipedia.org/wiki/月百姿 "月百姿")』の第21図で、『[平家物語](https://ja.wikipedia.org/wiki/平家物語 "平家物語")』巻5の「室泊遊君歌事」に基づいて描かれたもの。
+
+9. [小林清親](https://ja.wikipedia.org/wiki/小林清親 "小林清親") 『日本名勝図会 厳島』（にほんめいしょうずえ　いつくしま）
+:   [1896年](https://ja.wikipedia.org/wiki/1896年 "1896年")（明治29年）刊行。縦大判錦絵。板元は[大黒屋平吉](https://ja.wikipedia.org/wiki/大黒屋平吉 "大黒屋平吉")（[5代目松木平吉](https://ja.wikipedia.org/wiki/松木平吉_(5代目) "松木平吉 (5代目)")）。全国各地の[名勝](https://ja.wikipedia.org/wiki/名勝_(曖昧さ回避) "名勝 (曖昧さ回避)")を題材とした名所浮世絵揃物『日本名勝図会』の第3景。手前は大鳥居のわずかに[俯瞰](https://ja.wikipedia.org/wiki/俯瞰 "俯瞰")の図、奥は本社等の社殿の俯瞰図という、2画面構成になっている。満潮時の大鳥居の周りには客を乗せた3艘の[高瀬舟](https://ja.wikipedia.org/wiki/高瀬舟 "高瀬舟")が見える。
+
+10. [川瀬巴水](https://ja.wikipedia.org/wiki/川瀬巴水 "川瀬巴水") 『旅みやげ 第二集』「晴天の雪（宮嶋）」（たびみやげ だいにしゅう　せいてんのゆき みやじま）
+:   [1921年](https://ja.wikipedia.org/wiki/1921年 "1921年")（[大正](https://ja.wikipedia.org/wiki/大正 "大正")10年）刊行。縦大判多色摺版画。[名所絵](https://ja.wikipedia.org/wiki/名所絵 "名所絵")[新版画](https://ja.wikipedia.org/wiki/新版画 "新版画")『旅みやげ 第二集』の1図。版元は渡邊版画店（[渡邊木版美術画舗](https://ja.wikipedia.org/wiki/渡邊木版美術画舗 "渡邊木版美術画舗")）。
+
+11. [平山郁夫](https://ja.wikipedia.org/wiki/平山郁夫 "平山郁夫") 『月華厳島』（げっかいつくしま）
+:   [1993年](https://ja.wikipedia.org/wiki/1993年 "1993年")（[平成](https://ja.wikipedia.org/wiki/平成 "平成")5年）発表。第78回[院展](https://ja.wikipedia.org/wiki/院展 "院展")出展作品。[日本画](https://ja.wikipedia.org/wiki/日本画 "日本画")。夜の青い帳（とばり）に包まれた満潮時、柔らかな月明かりを受ける厳島神社の社殿は仄かに形を浮かび上がらせている。釣灯籠（つりどうろう）の灯りは回廊を点々と連なって、奥へ奥へと続いている。夜の帳の青色は「平山ブルー」と呼ばれる深い[群青色](https://ja.wikipedia.org/wiki/群青色 "群青色")で描かれている。
+
+* [![2](images/250px-Eight_Views_of_Miyajima_by_Nagasawa_Rosetsu_(Bunkacho).jpg)](https://ja.wikipedia.org/wiki/ファイル:Eight_Views_of_Miyajima_by_Nagasawa_Rosetsu_(Bunkacho).jpg "2")
+
+  2
+* [![3](images/250px-Miyajima_in_de_provincie_Aki-Rijksmuseum_RP-P-2008-214.jpeg)](https://ja.wikipedia.org/wiki/ファイル:Miyajima_in_de_provincie_Aki-Rijksmuseum_RP-P-2008-214.jpeg "3")
+
+  3
+* [![4](images/250px-The_Famous_Scenes_of_the_Sixty_States_50_Aki.jpg)](https://ja.wikipedia.org/wiki/ファイル:The_Famous_Scenes_of_the_Sixty_States_50_Aki.jpg "4")
+
+  4
+* [![5](images/250px-Brooklyn_Museum_-_Itsukushima_in_Aki_Province_-_Utagawa_Hiroshige_(Ando).jpg)](https://ja.wikipedia.org/wiki/ファイル:Brooklyn_Museum_-_Itsukushima_in_Aki_Province_-_Utagawa_Hiroshige_(Ando).jpg "5")
+
+  5
+* [![6](images/250px-Hiroshige_II_Aki_Miyajima.jpg)](https://ja.wikipedia.org/wiki/ファイル:Hiroshige_II_Aki_Miyajima.jpg "6")
+
+  6
+* [![7](images/250px-Mori_Motonari_Attacking_Sue_Harutaka_at_Itsukushima_LACMA_M.84.31.247.jpg)](https://ja.wikipedia.org/wiki/ファイル:Mori_Motonari_Attacking_Sue_Harutaka_at_Itsukushima_LACMA_M.84.31.247.jpg "7")
+
+  7
+* [![8](images/250px-Yoshitoshi_-_100_Aspects_of_the_Moon_-_21.jpg)](https://ja.wikipedia.org/wiki/ファイル:Yoshitoshi_-_100_Aspects_of_the_Moon_-_21.jpg "8")
+
+  8
+* [![9](images/120px-Itsukushima_Shrine_LACMA_M.71.100.97.jpg)](https://ja.wikipedia.org/wiki/ファイル:Itsukushima_Shrine_LACMA_M.71.100.97.jpg "9")
+
+  9
+* [![10](images/250px-Tabi_miyage_dai_nishū,_seiten_no_yuki_(Miyajima)_by_Kawase_Hasui.jpg)](https://ja.wikipedia.org/wiki/ファイル:Tabi_miyage_dai_nishū,_seiten_no_yuki_(Miyajima)_by_Kawase_Hasui.jpg "10")
+
+  10
+
+### 音楽
+
+厳島神社をテーマとした[音楽](https://ja.wikipedia.org/wiki/音楽 "音楽")としては、[楽曲](https://ja.wikipedia.org/wiki/楽曲 "楽曲")『[夕陽の笛](https://ja.wikipedia.org/wiki/夕陽の笛 "夕陽の笛")』がある。[1969年](https://ja.wikipedia.org/wiki/1969年 "1969年")（昭和44年）に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "日本放送協会")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "みんなのうた")』の企画として始まった「[お国めぐりシリーズ](https://ja.wikipedia.org/wiki/お国めぐりシリーズ "お国めぐりシリーズ")」の第5弾として、同年12月に初めて放映された。
+
+## テレビ番組
+
+* [歴史秘話ヒストリア](https://ja.wikipedia.org/wiki/歴史秘話ヒストリア "歴史秘話ヒストリア") 嚴島神社 ふしぎの島の物語〜ヒーローたちが愛した世界遺産・宮島の旅〜（2012年4月25日、NHK総合）
+
+## 関連項目
+
+* [日本の世界遺産](https://ja.wikipedia.org/wiki/日本の世界遺産 "日本の世界遺産")
+* [国宝一覧](https://ja.wikipedia.org/wiki/国宝一覧 "国宝一覧")
+* [宗像神社](https://ja.wikipedia.org/wiki/宗像神社 "宗像神社") - 厳島神社と同じく[宗像三女神](https://ja.wikipedia.org/wiki/宗像三女神 "宗像三女神")を祭神とする。
+* [速谷神社](https://ja.wikipedia.org/wiki/速谷神社 "速谷神社")
+* [弁天山 (徳島市)](https://ja.wikipedia.org/wiki/弁天山_(徳島市) "弁天山 (徳島市)") - 日本一低い山。山頂に厳島神社を勧請。
+* [白鬚神社](https://ja.wikipedia.org/wiki/白鬚神社 "白鬚神社") - 厳島神社同様、水面に鳥居がある神社。晴れた日には鳥居の奥に沖の島が見える。
+* [花咲か爺](https://ja.wikipedia.org/wiki/花咲爺#唱歌 "花咲爺") - 対岸の地御前で発祥した「宮島さん」の通称で知られる替え歌が、[広島東洋カープ](https://ja.wikipedia.org/wiki/広島東洋カープ "広島東洋カープ")の応援団などにより歌い継がれている。
+* [宮郷彰通](https://ja.wikipedia.org/wiki/宮郷彰通 "宮郷彰通") - [総代](https://ja.wikipedia.org/wiki/総代 "総代")を務めた。
+
+## 脚注
+
+[[脚注の使い方](https://ja.wikipedia.org/wiki/Help:脚注/読者向け "Help:脚注/読者向け")]
+
+### 注釈
+
+1. [↑](#cite_ref-2) 日本三舞台の他の2つは、大阪の[四天王寺](https://ja.wikipedia.org/wiki/四天王寺 "四天王寺")の石舞台と大阪の[住吉大社](https://ja.wikipedia.org/wiki/住吉大社 "住吉大社")の石舞台。
+2. [↑](#cite_ref-3) 日本三大鳥居の他の2つは、奈良の[春日大社](https://ja.wikipedia.org/wiki/春日大社 "春日大社")と敦賀の[気比神宮](https://ja.wikipedia.org/wiki/気比神宮 "気比神宮")の大鳥居。
+3. [↑](#cite_ref-6) 日本三大弁才天の他の2つは、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "神奈川県")[江の島](https://ja.wikipedia.org/wiki/江の島 "江の島")の[江島神社](https://ja.wikipedia.org/wiki/江島神社 "江島神社")と[滋賀県](https://ja.wikipedia.org/wiki/滋賀県 "滋賀県")[竹生島](https://ja.wikipedia.org/wiki/竹生島 "竹生島")の[都久夫須麻神社](https://ja.wikipedia.org/wiki/都久夫須麻神社 "都久夫須麻神社")。
+4. [↑](#cite_ref-7) 『広島県の地名』宮島町項。ただし「厳島」の語源には、祭神の[市杵島姫命](https://ja.wikipedia.org/wiki/イチキシマヒメ "イチキシマヒメ")（いちきしまひめのみこと）とするなどの他説がある（「[厳島#語源](https://ja.wikipedia.org/wiki/厳島#語源 "厳島")」参照）。
+5. [↑](#cite_ref-8) ただし、造営の主体者は佐伯景弘であったとされる（『広島県の地名』佐伯郡宮島町 厳島神社項）。
+6. [↑](#cite_ref-36) 摂末社に関しては[宮島の神社・一覧](http://masuda901.web.fc2.com/page7e5c.html)（個人サイト）、『広島県の地名』各項を参考に記載。
+7. [↑](#cite_ref-37) 便宜上、拝観の順路途中にあるものを境内社とし、それ以外を境外社とした。
+8. [↑](#cite_ref-39) 『厳島神社の刀剣』（泉屋博古館、2008）は、本件太刀の銘を「備州長船住国真」とする。
+9. [↑](#cite_ref-40) 『厳島神社の刀剣』（泉屋博古館、2008）によれば、中身の太刀の銘は「備中国青井助次助家作貞和二年（以下不明）」。
+10. [↑](#cite_ref-41) 『厳島神社の刀剣』（泉屋博古館、2008）によれば、拵の中身は、大（刀）が無銘 伝・兼光、小（脇指）が無銘 伝・[青江](https://ja.wikipedia.org/wiki/青江派 "青江派")吉次。
+
+### 出典
+
+1. [↑](#cite_ref-1) [国宝・世界遺産 嚴島神社](http://www.itsukushimajinja.jp/index.html)（公式サイト）。
+2. [↑](#cite_ref-4) “[世界遺産　「厳島神社」](https://online.bunka.go.jp/special_content/hlink6)”. *文化遺産オンライン*.  文化庁. 2019年12月21日閲覧。
+3. [↑](#cite_ref-5) [御由緒 拝観](http://www.itsukushimajinja.jp/history.html)（公式サイト）。
+4. [1](#cite_ref-itsukushima_9-0) [2](#cite_ref-itsukushima_9-1)  『広島県の地名』佐伯郡宮島町 厳島神社項。
+5. [↑](#cite_ref-10) [東京大学史料編纂所](https://ja.wikipedia.org/wiki/東京大学史料編纂所 "東京大学史料編纂所")『大日本古記録 臥雲日件録抜尤』岩波書店、1961年、161頁。
+6. [↑](#cite_ref-11) 鈴木充 (1992) p.82
+7. [↑](#cite_ref-12) 岩崎 (2012) pp.
+8. [↑](#cite_ref-13) 1991年以前の被害については（鈴木充 1992, pp.119-1211）による。
+9. [↑](#cite_ref-14) 丸山ほか (2005)
+10. [↑](#cite_ref-15) 三浦 (2011) pp.18-25
+11. [↑](#cite_ref-16) 鈴木充 (1992) pp.84-86
+12. [↑](#cite_ref-17) 『週刊朝日百科 日本の国宝 28』、p.**2**-231
+13. [↑](#cite_ref-18) 鈴木充 (1992) pp.88-96
+14. [↑](#cite_ref-19) 鈴木充 (1992) pp.88-96, 105
+15. [↑](#cite_ref-20) 工藤 (1988) p.48
+16. [↑](#cite_ref-21) “[宮島🦌厳島神社「平舞台」【国宝】 | 厳島神社-御朱印](https://xn----kx8ayh846avkd5qpey4akha.jinja-tera-gosyuin-meguri.com/category/%E5%AE%AE%E5%B3%B6%E3%83%BB%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%E3%81%AE%E5%A2%83%E5%86%85%E3%81%AE%E8%A6%8B%E6%89%80%EF%BC%88%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%EF%BC%89/%E5%AE%AE%E5%B3%B6%E3%83%BB%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE%E3%80%8C%E5%B9%B3%E8%88%9E%E5%8F%B0%E3%80%8D%E3%80%90%E5%9B%BD%E5%AE%9D%E3%80%91)”. 2023年3月31日閲覧。
+17. [↑](#cite_ref-22) 鈴木充 (1992) pp.102-105
+18. [1](#cite_ref-名前なし-1_23-0) [2](#cite_ref-名前なし-1_23-1) 鈴木充 (1992) pp.105-109
+19. [↑](#cite_ref-24) 鈴木充 (1992) p.110
+20. [↑](#cite_ref-25) 三浦 (2011) pp.52-54
+21. [↑](#cite_ref-26) 付属建物、摂社、末社の建物については（鈴木充 1992, pp.112-119）による。
+22. [↑](#cite_ref-27) 三浦 (2011) pp.83-84
+23. [↑](#cite_ref-28) 三浦 (2011) p.80
+24. [↑](#cite_ref-29) 三浦 (2011) p.82
+25. [↑](#cite_ref-30) 鈴木充 (1992年) pp.110-112
+26. [↑](#cite_ref-31) “[倒壊の危機、厳島神社大鳥居の大改修開始](https://honichi.com/news/2019/06/27/itsukushimaxcoin/)”. *訪日ラボ*.  mov (2019年6月27日). 2020年9月24日閲覧。
+27. [↑](#cite_ref-32) [大鳥居、亀裂に小銭差し込み　厳島神社「やめて」](https://web.archive.org/web/20131209135133/http://www.asahi.com/articles/OSK201312090010.html) [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "朝日新聞") 2013年12月9日[*[リンク切れ](https://ja.wikipedia.org/wiki/Wikipedia:出典を明記する#リンク切れの回避と修復 "Wikipedia:出典を明記する")*]
+28. [↑](#cite_ref-33) 鈴木充 (1992) pp.94-95
+29. [↑](#cite_ref-34) 工藤 (1988) p.44
+30. [1](#cite_ref-chimei_35-0) [2](#cite_ref-chimei_35-1) 『広島県の地名』佐伯郡廿日市町 地御前神社項。
+31. [↑](#cite_ref-38) 『広島県の地名』佐伯郡宮島町 七浦項。
+32. [↑](#cite_ref-42) 『世界遺産 日本三景 宮島』より。
+33. [↑](#cite_ref-43) [国立国会図書館デジタルコレクション・一遍聖絵](https://dl.ndl.go.jp/info:ndljp/pid/2609343)
+34. [↑](#cite_ref-44) “[指定文化財目録](https://www.city.fujisawa.kanagawa.jp/bunkazai/kyoiku/bunka/bunkazai/mokuroku.html)”.  藤沢市. 2019年6月22日閲覧。
+35. [1](#cite_ref-宮観_管絃祭_45-0) [2](#cite_ref-宮観_管絃祭_45-1) [3](#cite_ref-宮観_管絃祭_45-2) [4](#cite_ref-宮観_管絃祭_45-3) [5](#cite_ref-宮観_管絃祭_45-4) [6](#cite_ref-宮観_管絃祭_45-5) [7](#cite_ref-宮観_管絃祭_45-6) “[管絃祭](http://www.miyajima.or.jp/event/event_kangen.html)”. *公式ウェブサイト*.  宮島観光協会. 2019年6月21日閲覧。
+36. [1](#cite_ref-旅マガ_管絃祭2019_46-0) [2](#cite_ref-旅マガ_管絃祭2019_46-1) [3](#cite_ref-旅マガ_管絃祭2019_46-2) [4](#cite_ref-旅マガ_管絃祭2019_46-3) “[厳島神社『管絃祭』｜2019 - 34広島県](https://tabi-mag.jp/itsukusima-kangensai/)”. *ニッポン旅マガジン（公式ウェブサイト）*.  一般社団法人プレスマンユニオン (2019年). 2019年6月21日閲覧。
+37. [1](#cite_ref-朝日_20180729_47-0) [2](#cite_ref-朝日_20180729_47-1) 佐々木康之「[厳島神社の「管絃祭」106年ぶり中止　日本三大船神事](https://web.archive.org/web/20180729033801/https://www.asahi.com/articles/ASL7X54P2L7XPITB01N.html)」『[朝日新聞デジタル](https://ja.wikipedia.org/wiki/朝日新聞デジタル "朝日新聞デジタル")』[朝日新聞社](https://ja.wikipedia.org/wiki/朝日新聞社 "朝日新聞社")、2018年7月29日。[オリジナル](https://www.asahi.com/articles/ASL7X54P2L7XPITB01N.html)の2018年7月29日時点におけるアーカイブ。2019年6月21日閲覧。
+38. [1](#cite_ref-平山館_2017_48-0) [2](#cite_ref-平山館_2017_48-1) [3](#cite_ref-平山館_2017_48-2) “[「平山郁夫 歴史遺産を描く」展　8/27～12/3](http://hirayama-museum.or.jp/event/677)”. *公式ウェブサイト*.  [平山郁夫美術館](https://ja.wikipedia.org/wiki/平山郁夫美術館 "平山郁夫美術館") (2017年8月5日). 2019年6月26日閲覧。■画像あり。
+39. [1](#cite_ref-共印_月華厳島_49-0) [2](#cite_ref-共印_月華厳島_49-1) 共同印刷株式会社 アート&カルチャー事業部 (2018年12月6日). “[新作≪月華厳島≫のご案内](http://bijutsu-shumi.com/2018/12/post-434.html)”. *美術趣味（公式ウェブサイト）*.  [共同印刷](https://ja.wikipedia.org/wiki/共同印刷 "共同印刷")株式会社. 2019年6月26日閲覧。※こちらは複製画で、解説も基本的には複製画についてのもの。典拠とするのは原画でも変わらない部分の解説。
+40. [↑](#cite_ref-50) [嚴島神社 ふしぎの島の物語〜ヒーローたちが愛した世界遺産・宮島の旅〜](https://www.nhk.or.jp/archives/chronicle/detail/?crnid=A201204252200001302100) - NHKアーカイブス 2012年4月25日
+41. [↑](#cite_ref-51) 佐藤春佳 (2016年10月24日). “[【佐藤春佳のシリーズブレーク】「宮島さんの神主」に１００年以上の歴史あり](https://www.sanspo.com/article/20161024-5T3M5E6TG5KLRBOLIWMMV77VJQ/)”.  [サンケイスポーツ](https://ja.wikipedia.org/wiki/サンケイスポーツ "サンケイスポーツ"). 2021年4月14日閲覧。
+
+## 参考文献
+
+* 野坂元良編『厳島信仰事典 神仏信仰事典シリーズ8』（[戎光祥出版](https://ja.wikipedia.org/wiki/戎光祥出版 "戎光祥出版")、2002年）[ISBN](https://ja.wikipedia.org/wiki/ISBN_(識別子) "ISBN (識別子)") [4-900901-24-5](https://ja.wikipedia.org/wiki/特別:文献資料/4-900901-24-5 "特別:文献資料/4-900901-24-5")。編者は刊行時の宮司（1928年〈昭和3年〉 - 2017年〈平成29年〉）
+* 『[日本歴史地名大系](https://ja.wikipedia.org/wiki/日本歴史地名大系 "日本歴史地名大系") 広島県の地名』[後藤陽一](https://ja.wikipedia.org/wiki/後藤陽一 "後藤陽一")編（[平凡社](https://ja.wikipedia.org/wiki/平凡社 "平凡社")、1982年）- 佐伯郡廿日市町 地御前神社項、宮島町内の各項
+* 『世界遺産 日本三景 宮島』（宮島観光協会） および神社由緒書
+* 『不滅の建築4 厳島神社』[鈴木嘉吉](https://ja.wikipedia.org/wiki/鈴木嘉吉 "鈴木嘉吉")・工藤圭章責任編集（毎日新聞社、1988年）
+
+  :   [工藤圭章](https://ja.wikipedia.org/wiki/工藤圭章 "工藤圭章")解説「波に姿を映す女神の社」所収
+* 『日本名建築写真選集8 厳島神社』（新潮社、1992年）
+
+  :   鈴木充解説「海上の社殿 - 厳島神社」所収
+* 『週刊朝日百科 日本の国宝 28』（朝日新聞社、1997年）
+* [岩崎好規「遺産構造物の基礎における真正性」](https://web.archive.org/web/20140929071537/http://www.cyber-u.ac.jp/bulletin/0004/pdf/0004_03.pdf)『サイバー大学紀要』4、2012年
+* 丸山敬・河合宏允・益田健吾・[田村幸雄](https://ja.wikipedia.org/wiki/田村幸雄_(工学者) "田村幸雄 (工学者)")・松井正宏「台風0418号による厳島神社周辺の強風被害について」『京都大学防災研究所』年報第48号B、2005年（参照：[DPRI Annuals 年報発行一覧](http://www.dpri.kyoto-u.ac.jp/nenpo/nenpo.html)）
+* 山口佳巳「仁治度厳島神社の社殿」広島大学総合博物館研究報告、2009年
+* [泉屋博古館](https://ja.wikipedia.org/wiki/泉屋博古館 "泉屋博古館")編・発行『厳島神社の刀剣』（展覧会図録）、2008年
+* [三浦正幸](https://ja.wikipedia.org/wiki/三浦正幸 "三浦正幸")『平清盛と宮島』南々社、2011年
+* [松岡久人](https://ja.wikipedia.org/wiki/松岡久人 "松岡久人")『安芸厳島社』[法藏館](https://ja.wikipedia.org/wiki/法藏館 "法藏館")「法蔵選書」、1986年。法蔵館文庫（[秋山伸隆](https://ja.wikipedia.org/wiki/秋山伸隆 "秋山伸隆")解説）、2025年
+
+## 外部リンク
+
+* [嚴島神社](http://www.itsukushimajinja.jp/) - 嚴島神社公式ホームページ
+* [嚴島神社](http://www.miyajima-wch.jp/jp/itsukushima/index.html) - 廿日市市観光ホームページ
+* [嚴島神社](http://www.miyajima.or.jp/sightseeing/ss_itsukushima.html) - 宮島観光協会
+* [厳島神社本殿、幣殿、拝殿ほか](https://kunishitei.bunka.go.jp/heritage/detail/102/3164) - [文化庁](https://ja.wikipedia.org/wiki/文化庁 "文化庁")、国指定文化財等データベース
+* [厳島神社 ストリートビュー](https://www.google.co.jp/maps?f=q&source=embed&hl=ja&geocode&q=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&aq&sll=34.387451,132.474164&sspn=0.006809,0.010439&brcurrent=3,0x355ab6cf888dc94b:0xfc989787339d2f2,0&ie=UTF8&hq=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&hnear=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&layer=c&cbll=34.296224,132.317864&panoid=JB8lzF-adA00mqZ6BOGRgw&cbp=12,13.14,,2,-4.61&ll=34.296225,132.317877&spn=0,0.006899&z=17&utm_campaign=en&utm_medium=et&utm_source=en-et-na-us-gns-svn)
+* [伊都伎島神社](http://21coe.kokugakuin.ac.jp/db/jinja/490101.html) - 國學院大學21世紀COEプログラム「神道・神社史料集成」
+
+![](images/image_22117705.jpg)
+
+「<https://ja.wikipedia.org/w/index.php?title=厳島神社&oldid=111723888>」から取得
+
+[カテゴリ](/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA "特別:カテゴリ"):
+
+* [厳島神社 (広島県)](/wiki/Category:%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE_(%E5%BA%83%E5%B3%B6%E7%9C%8C) "Category:厳島神社 (広島県)")
+* [広島県の神社](/wiki/Category:%E5%BA%83%E5%B3%B6%E7%9C%8C%E3%81%AE%E7%A5%9E%E7%A4%BE "Category:広島県の神社")
+* [名神大社](/wiki/Category:%E5%90%8D%E7%A5%9E%E5%A4%A7%E7%A4%BE "Category:名神大社")
+* [安芸国の式内社](/wiki/Category:%E5%AE%89%E8%8A%B8%E5%9B%BD%E3%81%AE%E5%BC%8F%E5%86%85%E7%A4%BE "Category:安芸国の式内社")
+* [一宮](/wiki/Category:%E4%B8%80%E5%AE%AE "Category:一宮")
+* [官幣中社](/wiki/Category:%E5%AE%98%E5%B9%A3%E4%B8%AD%E7%A4%BE "Category:官幣中社")
+* [別表神社](/wiki/Category:%E5%88%A5%E8%A1%A8%E7%A5%9E%E7%A4%BE "Category:別表神社")
+* [安芸国](/wiki/Category:%E5%AE%89%E8%8A%B8%E5%9B%BD "Category:安芸国")
+* [廿日市市の歴史](/wiki/Category:%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E3%81%AE%E6%AD%B4%E5%8F%B2 "Category:廿日市市の歴史")
+* [廿日市市の建築物](/wiki/Category:%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E3%81%AE%E5%BB%BA%E7%AF%89%E7%89%A9 "Category:廿日市市の建築物")
+* [世界遺産 あ行](/wiki/Category:%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3_%E3%81%82%E8%A1%8C "Category:世界遺産 あ行")
+* [日本の世界遺産](/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3 "Category:日本の世界遺産")
+* [日本の国宝 (建造物)](/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E5%AE%9D_(%E5%BB%BA%E9%80%A0%E7%89%A9) "Category:日本の国宝 (建造物)")
+* [日本の国宝 (絵画)](/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E5%AE%9D_(%E7%B5%B5%E7%94%BB) "Category:日本の国宝 (絵画)")
+* [日本の国宝 (工芸品)](/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E5%AE%9D_(%E5%B7%A5%E8%8A%B8%E5%93%81) "Category:日本の国宝 (工芸品)")
+* [日本の国宝 (書跡・典籍・古文書)](/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E5%AE%9D_(%E6%9B%B8%E8%B7%A1%E3%83%BB%E5%85%B8%E7%B1%8D%E3%83%BB%E5%8F%A4%E6%96%87%E6%9B%B8) "Category:日本の国宝 (書跡・典籍・古文書)")
+* [広島県の重要文化財](/wiki/Category:%E5%BA%83%E5%B3%B6%E7%9C%8C%E3%81%AE%E9%87%8D%E8%A6%81%E6%96%87%E5%8C%96%E8%B2%A1 "Category:広島県の重要文化財")
+* [重要文化財 (建造物)](/wiki/Category:%E9%87%8D%E8%A6%81%E6%96%87%E5%8C%96%E8%B2%A1_(%E5%BB%BA%E9%80%A0%E7%89%A9) "Category:重要文化財 (建造物)")
+* [広島県の国宝](/wiki/Category:%E5%BA%83%E5%B3%B6%E7%9C%8C%E3%81%AE%E5%9B%BD%E5%AE%9D "Category:広島県の国宝")
+* [広島県指定重要文化財](/wiki/Category:%E5%BA%83%E5%B3%B6%E7%9C%8C%E6%8C%87%E5%AE%9A%E9%87%8D%E8%A6%81%E6%96%87%E5%8C%96%E8%B2%A1 "Category:広島県指定重要文化財")
+* [広島県の登録有形文化財](/wiki/Category:%E5%BA%83%E5%B3%B6%E7%9C%8C%E3%81%AE%E7%99%BB%E9%8C%B2%E6%9C%89%E5%BD%A2%E6%96%87%E5%8C%96%E8%B2%A1 "Category:広島県の登録有形文化財")
+* [広島県の観光地](/wiki/Category:%E5%BA%83%E5%B3%B6%E7%9C%8C%E3%81%AE%E8%A6%B3%E5%85%89%E5%9C%B0 "Category:広島県の観光地")
+* [瀬戸内海国立公園](/wiki/Category:%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92 "Category:瀬戸内海国立公園")
+* [特別史跡](/wiki/Category:%E7%89%B9%E5%88%A5%E5%8F%B2%E8%B7%A1 "Category:特別史跡")
+* [特別名勝](/wiki/Category:%E7%89%B9%E5%88%A5%E5%90%8D%E5%8B%9D "Category:特別名勝")
+* [広島県にある国指定の史跡](/wiki/Category:%E5%BA%83%E5%B3%B6%E7%9C%8C%E3%81%AB%E3%81%82%E3%82%8B%E5%9B%BD%E6%8C%87%E5%AE%9A%E3%81%AE%E5%8F%B2%E8%B7%A1 "Category:広島県にある国指定の史跡")
+* [中国地方にある日本庭園](/wiki/Category:%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9%E3%81%AB%E3%81%82%E3%82%8B%E6%97%A5%E6%9C%AC%E5%BA%AD%E5%9C%92 "Category:中国地方にある日本庭園")
+* [算額](/wiki/Category:%E7%AE%97%E9%A1%8D "Category:算額")
+* [鎌倉時代の建築](/wiki/Category:%E9%8E%8C%E5%80%89%E6%99%82%E4%BB%A3%E3%81%AE%E5%BB%BA%E7%AF%89 "Category:鎌倉時代の建築")
+* [室町時代の建築](/wiki/Category:%E5%AE%A4%E7%94%BA%E6%99%82%E4%BB%A3%E3%81%AE%E5%BB%BA%E7%AF%89 "Category:室町時代の建築")
+* [安土桃山時代の建築](/wiki/Category:%E5%AE%89%E5%9C%9F%E6%A1%83%E5%B1%B1%E6%99%82%E4%BB%A3%E3%81%AE%E5%BB%BA%E7%AF%89 "Category:安土桃山時代の建築")
+* [江戸時代の建築](/wiki/Category:%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3%E3%81%AE%E5%BB%BA%E7%AF%89 "Category:江戸時代の建築")
+* [1996年登録の世界遺産](/wiki/Category:1996%E5%B9%B4%E7%99%BB%E9%8C%B2%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3 "Category:1996年登録の世界遺産")
+* [宗教建築物の世界遺産](/wiki/Category:%E5%AE%97%E6%95%99%E5%BB%BA%E7%AF%89%E7%89%A9%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3 "Category:宗教建築物の世界遺産")
+* [瀬戸内海の歴史](/wiki/Category:%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7%E3%81%AE%E6%AD%B4%E5%8F%B2 "Category:瀬戸内海の歴史")
+
+隠しカテゴリ:
+
+* [ウィキデータにある座標](/wiki/Category:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E3%81%82%E3%82%8B%E5%BA%A7%E6%A8%99 "Category:ウィキデータにある座標")
+* [座標一覧](/wiki/Category:%E5%BA%A7%E6%A8%99%E4%B8%80%E8%A6%A7 "Category:座標一覧")
+* [地理座標系の一覧](/wiki/Category:%E5%9C%B0%E7%90%86%E5%BA%A7%E6%A8%99%E7%B3%BB%E3%81%AE%E4%B8%80%E8%A6%A7 "Category:地理座標系の一覧")
+* [Geoマイクロフォーマットがある記事](/wiki/Category:Geo%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%8C%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B "Category:Geoマイクロフォーマットがある記事")
+* [外部リンクがリンク切れになっている記事/2020年9月](/wiki/Category:%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%8C%E3%83%AA%E3%83%B3%E3%82%AF%E5%88%87%E3%82%8C%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B/2020%E5%B9%B49%E6%9C%88 "Category:外部リンクがリンク切れになっている記事/2020年9月")
+* [Kartographer拡張機能を使用しているページ](/wiki/Category:Kartographer%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8 "Category:Kartographer拡張機能を使用しているページ")
+
+* 最終更新 2026年11月11日 (水) 04:03 （日時は[個人設定](/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering "特別:個人設定")で未設定ならば[UTC](/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82 "協定世界時")）。
+* ページは[Parsoid](https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid "mw:Special:MyLanguage/Parsoid")によってレンダリングされました。
+* テキストは[クリエイティブ・コモンズ 表示-継承ライセンス](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)のもとで利用できます。追加の条件が適用される場合があります。詳細については[利用規約](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)を参照してください。
+
+* [プライバシー・ポリシー](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ja)
+* [ウィキペディアについて](/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+* [免責事項](/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85)
+* [法律および安全に関する連絡先](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information)
+* [行動規範](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct)
+* [開発者](https://developer.wikimedia.org)
+* [統計](https://stats.wikimedia.org/#/ja.wikipedia.org)
+* [Cookieに関する声明](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
+* [モバイルビュー](//ja.wikipedia.org/w/index.php?title=%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE&mobileaction=toggle_view_mobile)
+
+* [![Wikimedia Foundation](images/wikimedia.svg)](https://www.wikimedia.org/)
+* [![Powered by MediaWiki](images/mediawiki_compact.svg)](https://www.mediawiki.org/)
+
+検索
+
+検索
+
+目次の表示・非表示を切り替え
+
+厳島神社
+
+66 個の言語版
+[話題を追加](#)
